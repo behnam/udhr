@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='azj' xml:lang='az-Latn' key='azj_latn' n='Azerbaijani, North (Latin)' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="azj" xml:lang="az-Latn" key="azj_latn" n="Azerbaijani, North (Latin)" dir="ltr" iso15924="Latn">
   <title>İNSAN HÜQUQLARI HAQQINDA ÜMUMİ BƏYANNAMƏ</title>
   <preamble>
     <title>PREAMBULA</title>
@@ -247,4 +245,3 @@
     <para>Bu Bəyannamədə heç nə hər hansı dövlətə, şəxslər qrupuna və ayrı-ayrı şəxslərə Bəyannaməndə elan olunmuş hüquq və azadlıqların məhvinə yönəlmiş hər hansı fəaliyyətlə məşğul olmaq və ya hər hansı hərəkəti törətmək hüququnun verilməsi kimi təfsir oluna bilməz.</para>
   </article>
 </udhr>
-

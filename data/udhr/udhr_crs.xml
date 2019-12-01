@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='crs' xml:lang='crs' key='crs' n='Seselwa Creole French' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="crs" xml:lang="crs" key="crs" n="Seselwa Creole French" dir="ltr" iso15924="Latn">
    <title>Deklarasyon Iniversel Bann Drwa Imen</title>
    <preamble>
      <title>Preanbil</title>
@@ -246,4 +244,3 @@
       <para>Napa narnyen dan sa Deklarasyon ki devret ganny enterprete komkwa en leta, an group obyen en dimoun annan en drwa kelkonk pou fer nenport ki aktivite obyen aksyon ki kapab detri bann drwa ek bann liberte kin ganny ekri ladan.</para>
    </article>
 </udhr>
-

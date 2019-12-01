@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='swb' xml:lang='swb' key='swb' n='Comorian, Maore' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="swb" xml:lang="swb" key="swb" n="Comorian, Maore" dir="ltr" iso15924="Latn">
    <title>FASWIRI HA LUGHA YA SHIMAORE YA MUTEKELEZEO WA SHI ULEMENGU WA ZIHAKI ZA MWANADAMU (HAKI-L-ADAMI)</title>
    <note>
-      <para></para>
+      <para/>
    </note>
    <preamble>
       <title>DAIƁADJI (MUKADDIMA)</title>
@@ -142,7 +140,7 @@
    </article>
    <article number="20">
      <title>Kanuni ya shirini</title>
-      <title></title>
+      <title/>
       <orderedlist>
           <listitem>
             <para>Kula mutru ana haki ya ukana nafasi ya mungulidzano ha utrulivu na ya mupangio wa shama ya amani.</para>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='cmn' xml:lang='zh-Hans' key='cmn_hans' n='Chinese, Mandarin (Simplified)' dir='ltr' iso15924='Hans' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="cmn" xml:lang="zh-Hans" key="cmn_hans" n="Chinese, Mandarin (Simplified)" dir="ltr" iso15924="Hans">
    <title>世界人权宣言</title>
    <note>
       <para>联合国大会一九四八年十二月十日第217A(III)号决议通过并颁布</para>
@@ -63,10 +61,10 @@
    <article number="11">
       <title>第十一条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>凡受刑事控告者,在未经获得辩护上所需的一切保证的公开审判而依法证实有罪以前,有权被视为无罪。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>任何人的任何行为或不行为,在其发生时依国家法或国际法均不构成刑事罪者,不得被判为犯有刑事罪。刑罚不得重于犯罪时适用的法律规定。</para>
          </listitem>
       </orderedlist>
@@ -78,10 +76,10 @@
    <article number="13">
       <title>第十三条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人在各国境内有权自由迁徙和居住。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>人人有权离开任何国家,包括其本国在内,并有权返回他的国家。</para>
          </listitem>
       </orderedlist>
@@ -89,10 +87,10 @@
    <article number="14">
       <title>第十四条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人有权在其他国家寻求和享受庇护以避免迫害。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>在真正由于非政治性的罪行或违背联合国的宗旨和原则的行为而被起诉的情况下,不得援用此种权利。</para>
          </listitem>
       </orderedlist>
@@ -100,10 +98,10 @@
    <article number="15">
       <title>第十五条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人有权享有国籍。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>任何人的国籍不得任意剥夺,亦不得否认其改变国籍的权利。</para>
          </listitem>
       </orderedlist>
@@ -111,13 +109,13 @@
    <article number="16">
       <title>第十六条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>成年男女,不受种族、国籍或宗教的任何限制有权婚嫁和成立家庭。他们在婚姻方面,在结婚期间和在解除婚约时,应有平等的权利。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>只有经男女双方的自由和完全的同意,才能缔婚。</para>
          </listitem>
-         <listitem tag='㈢'>
+         <listitem tag="㈢">
             <para>家庭是天然的和基本的社会单元,并应受社会和国家的保护。</para>
          </listitem>
       </orderedlist>
@@ -125,10 +123,10 @@
    <article number="17">
       <title>第十七条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人得有单独的财产所有权以及同他人合有的所有权。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>任何人的财产不得任意剥夺。</para>
          </listitem>
       </orderedlist>
@@ -144,10 +142,10 @@
    <article number="20">
       <title>第二十条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人有权享有和平集会和结社的自由。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>任何人不得迫使隶属于某一团体。</para>
          </listitem>
       </orderedlist>
@@ -155,13 +153,13 @@
    <article number="21">
       <title>第二十一条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人有直接或通过自由选择的代表参与治理本国的权利。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>人人有平等机会参加本国公务的权利。</para>
          </listitem>
-         <listitem tag='㈢'>
+         <listitem tag="㈢">
             <para>人民的意志是政府权力的基础;这一意志应以定期的和真正的选举予以表现,而选举应依据普遍和平等的投票权,并以不记名投票或相当的自由投票程序进行。</para>
          </listitem>
       </orderedlist>
@@ -173,16 +171,16 @@
    <article number="23">
       <title>第二十三条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人有权工作、自由选择职业、享受公正和合适的工作条件并享受免于失业的保障。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>人人有同工同酬的权利,不受任何歧视。</para>
          </listitem>
-         <listitem tag='㈢'>
+         <listitem tag="㈢">
             <para>每一个工作的人,有权享受公正和合适的报酬,保证使他本人和家属有一个符合人的生活条件,必要时并辅以其他方式的社会保障。</para>
          </listitem>
-         <listitem tag='㈣'>
+         <listitem tag="㈣">
             <para>人人有为维护其利益而组织和参加工会的权利。</para>
          </listitem>
       </orderedlist>
@@ -194,10 +192,10 @@
    <article number="25">
       <title>第二十五条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人有权享受为维持他本人和家属的健康和福利所需的生活水准,包括食物、衣着、住房、医疗和必要的社会服务;在遭到失业、疾病、残废、守寡、衰老或在其他不能控制的情况下丧失谋生能力时,有权享受保障。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>母亲和儿童有权享受特别照顾和协助。一切儿童,无论婚生或非婚生,都应享受同样的社会保护。</para>
          </listitem>
       </orderedlist>
@@ -205,13 +203,13 @@
    <article number="26">
       <title>第二十六条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人都有受教育的权利,教育应当免费,至少在初级和基本阶段应如此。初级教育应属义务性质。技术和职业教育应普遍设立。高等教育应根据成绩而对一切人平等开放。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>教育的目的在于充分发展人的个性并加强对人权和基本自由的尊重。教育应促进各国、各种族或各宗教集团间的了解、容忍和友谊,并应促进联合国维护和平的各项活动。</para>
          </listitem>
-         <listitem tag='㈢'>
+         <listitem tag="㈢">
             <para>父母对其子女所应受的教育的种类,有优先选择的权利。</para>
          </listitem>
       </orderedlist>
@@ -219,10 +217,10 @@
    <article number="27">
       <title>第二十七条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人有权自由参加社会的文化生活,享受艺术,并分享科学进步及其产生的福利。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>人人对由于他所创作的任何科学、文学或美术作品而产生的精神的和物质的利益,有享受保护的权利。</para>
          </listitem>
       </orderedlist>
@@ -234,13 +232,13 @@
    <article number="29">
       <title>第二十九条</title>
       <orderedlist>
-         <listitem tag='㈠'>
+         <listitem tag="㈠">
             <para>人人对社会负有义务,因为只有在社会中他的个性才可能得到自由和充分的发展。</para>
          </listitem>
-         <listitem tag='㈡'>
+         <listitem tag="㈡">
             <para>人人在行使他的权利和自由时,只受法律所确定的限制,确定此种限制的唯一目的在于保证对旁人的权利和自由给予应有的承认和尊重,并在一个民主的社会中适应道德、公共秩序和普遍福利的正当需要。</para>
          </listitem>
-         <listitem tag='㈢'>
+         <listitem tag="㈢">
             <para>这些权利和自由的行使,无论在任何情形下均不得违背联合国的宗旨和原则。</para>
          </listitem>
       </orderedlist>

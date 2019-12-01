@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='pap' xml:lang='pap' key='pap' n='Papiamentu' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="pap" xml:lang="pap" key="pap" n="Papiamentu" dir="ltr" iso15924="Latn">
    <title>DECLARACION UNIVERSAL DI DERECHO HUMANO</title>
    <note>
-      <para></para>
+      <para/>
    </note>
    <preamble>
       <title>Preambulo</title>
@@ -249,4 +247,3 @@
       <para>No por interpreta nada den e Declaracion aki comosifuera cu e ta implica cu cualke Estado, grupo of persona por deriva for di dje cualke derecho pa efectua cualke actividad of pa realisa cualke acto cu tin como obhetivo destruccion di cualke di e derechonan y libertadnan proclama den e Declaracion aki.</para>
    </article>
 </udhr>
-

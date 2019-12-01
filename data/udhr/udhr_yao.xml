@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='yao' xml:lang='yao' key='yao' n='Yao' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="yao" xml:lang="yao" key="yao" n="Yao" dir="ltr" iso15924="Latn">
   <title>Mkamulano Wa Ilambo Yoscope Pa Ufulu Wa Chipago Wa Wandu</title>
   <preamble>
     <title>Malowe Gandanda</title>

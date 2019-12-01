@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='sco' xml:lang='sco' key='sco' n='Scots' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="sco" xml:lang="sco" key="sco" n="Scots" dir="ltr" iso15924="Latn">
   <title>Universal Declaration o Human Richts</title>
 
   <note>
@@ -255,4 +253,3 @@
     <para>Nocht in this Declaration may be interpret as allouin for ony State, group or person ony richt tae tak pairt in ony ploy or perform ony act ettled at the cowping o ony o the richts and freedoms herein furthset.</para>
   </article>
 </udhr>
-

@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
+<?xml version="1.0" encoding="UTF-8"?>
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='iii' xml:lang='ii' key='iii' n='Nuosu' dir='ltr' iso15924='Yiii' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="iii" xml:lang="ii" key="iii" n="Nuosu" dir="ltr" iso15924="Yiii">
    <title>《ꋧꃅꊽꌅꅍꄜꋊꄯꒉ》</title>
    <preamble>
       <title>ꌐꁌꅇ</title>

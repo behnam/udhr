@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="roh" xml:lang="rm-vallader" key="roh_vallader" n="Romansch (Vallader)" dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="roh" xml:lang="rm-vallader" key="roh_vallader" n="Romansch (Vallader)" dir="ltr" iso15924="Latn">
    <title>Decleraziun universala dals drets umans</title>
    <preamble>
       <title>Preambul da la decleraziun</title>
@@ -24,7 +22,7 @@
       <title>Art. 2:</title>
       <para>Mincha persuna po far valair tuot ils drets e tuot las libertads proclamats illa Decleraziun preschainta sainza distincziun, particularmaing da razza, da culur, da gener, da religiun, d’opiniun politica o otra, d’origin naziunal o social, da possess, da naschentscha o d’otras circunstanzas.</para>
       <para>Plünavant nu vain fatta ingüna disctincziun fundada sül status politic, giuridic o internaziunal dals pajais o dal territori, dal qual deriva üna persuna, cha quist pajais o territori saja independent, suot tutela, na-autonom opür suottamiss ad ün’otra limitaziun da la suveranità.</para>
-      <para></para>
+      <para/>
   </article>
    <article number="3">
       <title>Art. 3:</title>
@@ -252,7 +250,3 @@
       <para>Ingüna disposiziun da la preschainta Decleraziun nu das-cha gnir interpretada uschè ch’ün stadi, üna gruppa o üna persuna haja il dret da sviluppar ün’actività o d’accumplir ün act chi ha in mira la violaziun dals drets e da las libertads manzunats in quista Decleraziun.</para>
    </article>
 </udhr>
-
-
-
-

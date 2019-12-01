@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='uig' xml:lang='ug-Arab' key='uig_arab' n='Uyghur (Arabic)' dir='rtl' iso15924='Arab' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="uig" xml:lang="ug-Arab" key="uig_arab" n="Uyghur (Arabic)" dir="rtl" iso15924="Arab">
    <title>دۇنيا كىشىلىك ھوقۇقى خىتابنامىسى</title>
    <preamble>
       <title>سۆز بېشى</title>
@@ -248,4 +246,3 @@
       <para>بۇ خىتابنامىنىڭ ھەرقانداق بىر ماددىسىنى ھەرقانداق دۆلەت، گۇرۇھ ياكى شەخس مۇشۇ خىتابنامىدە قەيت قىلىنغان ھەرقانداق ھوقۇق ۋە ئەركىنلىكنى بۇزۇش مەقسىتىدىكى پائالىيەت ياكى ھەرىكەتلەرنى ئېلىپ بېرىشقا ھوقۇقلۇق دەپ سۇكۇت قىلىدىغان مەنىدە چۇشەندۇرۇشكە بولمايدۇ.</para>
   </article>
 </udhr>
-

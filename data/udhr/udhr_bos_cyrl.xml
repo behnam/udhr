@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='bos' xml:lang='bs-Cyrl' key='bos_cyrl' n='Bosnian (Cyrillic)' dir='ltr' iso15924='Cyrl' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="bos" xml:lang="bs-Cyrl" key="bos_cyrl" n="Bosnian (Cyrillic)" dir="ltr" iso15924="Cyrl">
    <title>ОПШТА ДЕКЛАРАЦИЈА О ПРАВИМА ЧОВЈЕКА</title>
    <note>
       <para>УСВОЈЕНА У ГЕНЕРАЛНОЈ СКУПШТИНИ УЈЕДИЊЕНИХ НАЦИЈА 10. ДЕЦЕМБРА 1948.</para>

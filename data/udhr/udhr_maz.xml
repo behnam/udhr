@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='maz' xml:lang='maz' key='maz' n='Mazahua Central' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="maz" xml:lang="maz" key="maz" n="Mazahua Central" dir="ltr" iso15924="Latn">
    <title>JÑA 'A YO PJOSU̸ TEXE YE TE̱'E̱ NUYO KA̸NRA̸ A XESE NE XOÑIJOMU</title>
    <preamble>
       <title>PJU̸RU̸</title>

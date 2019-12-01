@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='hns' xml:lang='hns' key='hns' n='Hindustani, Sarnami' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="hns" xml:lang="hns" key="hns" n="Hindustani, Sarnami" dir="ltr" iso15924="Latn">
    <title>Aadmi ke hak ka Kahna, djaun sab manai djaun doeniya me rehe ke khatien hai.</title>
    <note>
       <para>(10. December 1948)</para>
@@ -215,7 +213,7 @@
             <para>Siettcha ke matlab hoi, apan man ekdam barhai kare ke, aur ‘insaan ke hak’ aurò ohi aadjádi djaun reh ke chaahin, ieddjat dewe ke aur barhaawe ke khatien. Oho [siettcha] aage barhai, samdjhaawat, sahe aur sanghat sab dès, jaat-paat aur alag dharm waala djhoend lagè djaun hai aur Verenigde Naties ke karen shaant rakhe khatien, aage barhai. Mai-baap ke pehla hak hai, djaun rakam ke siettcha choene ke, okrèn larkan khatien.</para>
          </listitem>
          <listitem>
-            <para></para>
+            <para/>
          </listitem>
       </orderedlist>
    </article>

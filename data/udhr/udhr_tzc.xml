@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='tzo' xml:lang='tzo' key='tzc' n='Tzotzil (Chamula)' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="tzo" xml:lang="tzo" key="tzc" n="Tzotzil (Chamula)" dir="ltr" iso15924="Latn">
     <title>A’K’EL TA JAMAL OXIL SKOTOL LEYETIK SKOLTAOBIL SKOTOL KUXLEJEL TA SPEJEL BALUMIL</title>
    <note>
         <para>I’chbil ta venta i a’k’bil ta a’yel ta stojol Asamblea General yu’un Naciones Unidas tas relación 217 A (III), ta lajuneb yu’un diciembre ta 1948.</para>
@@ -62,10 +60,10 @@
    <article number="11">
       <title>Buluchib Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol gente ke staoj albeel ke oy smule oy sderecho ke spas xa’be sjam xa’k’ ta jamal oxil ke mu’yuk smule te me mu’yuk k’uxchi spasbet comprobar k’uyes s-albete, según ta ley k’uxchi xal ke ja jech mulile i ta stojol yelobal yanetik gente lek slok y sta koltael.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Muk mu’ch’u va sta tak’el-el ta na’k’el teme k’uxi la spase mauk mulil según sderecho ta nacional o internacional. Jech jeuk muk va yi’ch akbeel mu’k smulilal ta yorail me la sta ojtakinbeel smule.</para>
          </listitem>
       </orderedlist>
@@ -77,10 +75,10 @@
    <article number="13">
       <title>Oxlajuneb Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol gente oy ta sderecho xanbaj sin xielal i xa’ ja’tsa bu te sk’ane spas snakij tas sbalumilal jun Estado.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Skotol gente oy sderecho sbat ta buyik on paisal te sk’ane o ta mismo spais i te me lok’em-el ta yanxa paise spas xut k’otel ipxa bu lo’k’em-ele.</para>
          </listitem>
       </orderedlist>
@@ -88,10 +86,10 @@
    <article number="14">
       <title>Chanlajuneb Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Te me sta nutsel ta tsakele, skotol gente oy sderecho sk’an koltael y sk’upinel ta k’uk-on junukal balumil te sta koltaele.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Le derechoe mu spas ta tunel o sk’anel va’k’in oy jun mulin ke mauk sk’anojel yu’un Naciones Unidas.</para>
          </listitem>
       </orderedlist>
@@ -99,10 +97,10 @@
    <article number="15">
       <title>Jolajuneb Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol gente oy sderecho stek’aj i skuxij ta jun balumil.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Muk mu’ch’u sventa si’ch pojbeel o jelbeel sbalumilal i te me sk’an sk’omes i sjelbael ta bu sk’anojelyu’une muk va yi’ch tek’ajexel ta puersa.</para>
          </listitem>
       </orderedlist>
@@ -110,13 +108,13 @@
    <article number="16">
       <title>Vaklajuneb Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Tanto viniketik i antsatik, te me laxa staik sch’ielik, i spa-xa staik smalalik o yajnilik oy sderechoik, sin ke staik te’k’ajesel yu’un me k’ux-elan razail, bu yu’unal o k’u schunobil yu’un ta kajbaltil ta vinajel i s-ak’otik jak nupunukik i spas slekoj snaik i sk’upinik ko’ol sderechoik ta k’u sjalil snupujelalike i spasik seguir chu’uk mismo sderechoik aunke sk’ej-sbaik.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Ja’no me sk’anojel yu’unik mu’ch’u te sk’an sbaike spas snupunik.</para>
          </listitem>
-         <listitem tag='Oxib sloilal.'>
+         <listitem tag="Oxib sloilal.">
             <para>Jun familia stalel-ono s-oyij i ja’ smeltsan jun sociedad i oy ta sderecho sta koltael ta stojol i jech jeuk yu’un Estadoe.</para>
          </listitem>
       </orderedlist>
@@ -124,10 +122,10 @@
    <article number="17">
       <title>Julajuneb Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol gente oy ta sderecho s-ayan yu’un sk’ustik ya sea stuknoó o entre epalik.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Muk mu’ch’u sventa spojvet sk’ustik ta jechnoó.</para>
          </listitem>
       </orderedlist>
@@ -143,10 +141,10 @@
    <article number="20">
       <title>Jun vinik Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol gente oy sderecho libre spas stsomsbaik i muktalekil tsombail.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Muk mu’ch’u spas ta otexel ta puersa ta jun mukta tsombail.</para>
          </listitem>
       </orderedlist>
@@ -154,13 +152,13 @@
    <article number="21">
       <title>Jun schavinik Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol gente oy sderecho spas xochan u’elanbanej ya sea ta vikit o ta mukta slumal; ta stojol o chu’uk yanxa vinik tuxbil t’ujbil entre schiuktak ta slumal.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Skotol vinik oy derecho yu’un spas ko’ol s-och taj u’el ta smu’kta balumil.</para>
          </listitem>
-         <listitem tag='Oxib sloilal.'>
+         <listitem tag="Oxib sloilal.">
             <para>Lo ke sk’anojel jun lugar ja’ xa’k’ mantal ta skotol; le sk’anojelale si’ch tael ta k’elel i ta pasel va’k’in si’ch xa’el i kujanel jun u’el, ta ko’ol k’opiletik o sea komon junoó ye-sti’ik o yanxa sjam xabanej pero ke xak’-oyuk libertad yu’un spasel votar.</para>
          </listitem>
       </orderedlist>
@@ -172,16 +170,16 @@
    <article number="23">
       <title>Oxib schavinik Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol vinik oy yu’un derecho s-amtej, i k’u yu’un te sk’ane, oy yu’un derecho sta a’beel lekilal i lekil amtel bu ta spijil yo’n s-oyij i s-amtej i oy sderecho sta koltael ta xa’beel yamtel va’k’in mu’yuk yamtele.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Skotol vinik oy yu’un derecho sta sin t’ujilanel mu’ch’u ko’ol stojol según k’u yepal yamtel.</para>
          </listitem>
-         <listitem tag='Oxib sloilal.'>
+         <listitem tag="Oxib sloilal.">
             <para>Skotol vinik i ants ta vikit i ta mu’k oy yu’unik derecho staik a’beel jpix i ta junal na, chak’uxchi sventae i sta más koltael te me spas paltae ta yanetikxa koltabanejetike.</para>
          </listitem>
-         <listitem tag='Chanib sloilal.'>
+         <listitem tag="Chanib sloilal.">
             <para>Skotol vinik oy yu’unik derecho spasik smeltsanel sindikatoetik i stik’-sbaik ta sindikatoetike bu te sk’ane, oy ta sderecho sta a’beel k’uyepal sjalilik yamtele i sta s-k’uxonetik buyik-ora i jak sta stojel.</para>
          </listitem>
       </orderedlist>
@@ -193,10 +191,10 @@
    <article number="25">
       <title>Joob schavinik Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol vinik oy ta sderecho spas skuxij jun lekil o uts kuxlejel bujechuk oy yu’un, tanto ta junal na, sin chamel, sbeel, sk’u’, sna, sk’elel ta poxtabanel i k’uxi yanetik más ke stun i stun yu’une; oy yu’un svinkilele, o va’k’in mu’yuk yu’un k’uschi spas skuxij i xa sbeel ke sea mauk sk’anonel yu’un.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Va’k’in jun ants va sman yol i te me laxa smane oy derechoyu’unik scha’vaalik staik lek cha’biel bujechuk yabil o mu’ch’u sch’iuk sventa xa’k’e. Skotol unetik, ayanemik, ta lekil nupunel o aunke ma’uk ta lekil nupunel, oy yu’unik derecho staik cha’biel ta stojol mu’kta tsobomajele.</para>
          </listitem>
       </orderedlist>
@@ -204,13 +202,13 @@
    <article number="26">
       <title>Vakib Schavinik Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol gente oy yu’un derecho staik smeltsanel ta escuela, educación skaltike. Le’ye sventa sta ta jech-noó o sea k’elambil aunke ja noó ta slikebal elemental si’ch alele i ke ja’ más oy ta a’k’el ta vai’. Le’ye ta puersa-onó sventa si’ch i’chel-el. Yanxa más toyol técnica o profesional si’ch alele a’k’el ta stojol skotol gente; según spijil stalel e’chemtalel ta yanetikxa vik’it chanubtexele.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Chanubtexele sk’anojel yu’un lek smeltsajesvan i tsatsumtex ya’k’ojel ta mu’k’ derecho humanoe i libertaetik más oy stunel i sventa sna; ja’ jeche va oyuk más oy k’anbail ta ju ju vo’ aibajel i k’anbail chu’uk yanetikxa lumaletik ta i schi’uk naklejetik i k’ux-elan ta sch’unobil kajbaltik ta vinajel; ja jeche va vinajuk sch’iel yamtel ta stojol Naciones Unidas ta sk’anojel lekil k’uxlejale.</para>
          </listitem>
-         <listitem tag='Oxib sloilal.'>
+         <listitem tag="Oxib sloilal.">
             <para>Totiletike oy yu’unik derecho k’ux-elan chanubtexel sk’an xa’kbe snichnab.</para>
          </listitem>
       </orderedlist>
@@ -218,10 +216,10 @@
    <article number="27">
       <title>Jukub schavinik Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol vinik oy tas sderecho según k’ux-elan stalel sk’uxijik ta slumal, spas sk’upin k’uxitik snaojiktalel desde vo’nej spaxobil sk’uxtikik i spas xochanik amteletik yu’un ciencia i sk’upinel k’uyel yutsil slok ta lunto amtele.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Ta skotol gente oy derecho yu’un sta ch’abiel i k’uxubinel ta k’op i ta k’uxtik mu’ch’u lek lok yamtel ta ciencia, ta tsibajelal o ta k’eojel o yanetikxa literaria o artístika si’ch alele.</para>
          </listitem>
       </orderedlist>
@@ -233,13 +231,13 @@
    <article number="29">
       <title>Valuneb schavinik Artikulo:</title>
       <orderedlist>
-         <listitem tag='Jun sloilal.'>
+         <listitem tag="Jun sloilal.">
             <para>Skotol gente oy tsots stunel ta yutil slumal porke ja’no jech i ja’no te bujechuk spas spas k’ute sk’ane i k’uxchi te xk’ane i spas xa’k sba ta ojtakinel k’ux-elan stalel.</para>
          </listitem>
-         <listitem tag='Chib sloilal.'>
+         <listitem tag="Chib sloilal.">
             <para>Ta sk’anojel i sk’upinel sderecho i slibertade, skotol gente va oyuk ta sk’ob según k’ux-elan stalel pasbil ley, ja jeche seguro va oyuk me xojtakin k’uxitik sventa si’ch a’kbeel ta mu’k’ta yanetik gente, chak’uxchi; derechoetik hasta bu spas skolemaj tanto ta’ye i stuke i xa’be sjam k’uxchi lek-no stalel, tanto chu’uk schi’iltak ta slumal i chu’uk yanetikxa ta yanetik lumajele ja jeche va yu’uk i va oyuk jun mu’kta tsombail demokratika skaltike.</para>
          </listitem>
-         <listitem tag='Oxib sloilal.'>
+         <listitem tag="Oxib sloilal.">
             <para>Le’noj derechoetik i libertadetike mu sventa si’ch tunel ta xutemal k’ux-elan sk’anojel yu’un Naciones Unidase.</para>
          </listitem>
       </orderedlist>

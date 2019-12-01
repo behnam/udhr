@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='shk' xml:lang='shk' key='shk' n='Shilluk' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="shk" xml:lang="shk" key="shk" n="Shilluk" dir="ltr" iso15924="Latn">
    <title>MØG-A ÁCÏMMI YI KÖMI LÄBØ KI RI GÏG-A DWADDI KIPER DHANHØ BËNE</title>
    <note>
      <para>G.A. res. 217A (III), U.N. Doc A/810 at 71 (1948)</para>
@@ -250,4 +248,3 @@
       <para>Ki yij nyudhø men, bong gïn cuggi løgø me nëngi pödhø wala ji wala dhanhø ki teegø me gööge kipe rënyi gïg-a ácïb møg ki bongi bäängø mø bään ki møg-a ácïb ki yij wänyø men; a 1øg Møg-a Acïb yi Buri Pödhhi Kömi Piny.</para>
    </article>
 </udhr>
-

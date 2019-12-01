@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='lus' xml:lang='lus' key='lus' n='Mizo' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="lus" xml:lang="lus" key="lus" n="Mizo" dir="ltr" iso15924="Latn">
    <title>?</title>
    <note>
-      <para></para>
+      <para/>
    </note>
    <preamble>
       <title>Thuhma</title>
@@ -29,7 +27,7 @@
   </article>
    <article number="3">
       <title>Article 3Mitinte hian nung turin dikna kan nei vek a, zalênna leh mimal nun thlamuanna te hi kan chanvo a ni.</title>
-      <para></para>
+      <para/>
    </article>
    <article number="4">
       <title>Article 4</title>
@@ -53,7 +51,7 @@
    </article>
    <article number="9">
       <title>Article 9Mi tumah apâwng ataka man emaw, hrên luih emaw leh hnawhchhuah emaw tur a ni lo.</title>
-      <para></para>
+      <para/>
    </article>
    <article number="10">
       <title>Article 10</title>

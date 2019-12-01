@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='ukr' xml:lang='uk' key='ukr' n='Ukrainian' dir='ltr' iso15924='Cyrl' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="ukr" xml:lang="uk" key="ukr" n="Ukrainian" dir="ltr" iso15924="Cyrl">
    <title>ЗАГАЛЬНА ДЕКЛАРАЦІЯ ПРАВ ЛЮДИНІ</title>
    <preamble>
       <title>ПРЕАМБУЛА</title>
@@ -247,4 +245,3 @@
       <para>Ніщо у цій Декларації не може бути витлумачено як надання будь‐якій державі, групі осіб або окремим особам права займатися будь‐якою діяльністю або вчиняти дії, спрямовані на знищення прав і свобод, викладених у цій Декларації.</para>
    </article>
 </udhr>
-   

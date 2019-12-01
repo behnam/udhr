@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='toi' xml:lang='toi' key='toi' n='Tonga' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="toi" xml:lang="toi" key="toi" n="Tonga" dir="ltr" iso15924="Latn">
   <title>CAAMBILIZYO CA MULAWO WA MASI OONSE WA LWAANGULUKO LWA MUNTU MATALIKO</title>
   <preamble>
     <title>[Preamble]</title>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='nya' xml:lang='ny' key='nya_chinyanja' n='Nyanja (Chinyanja)' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="nya" xml:lang="ny" key="nya_chinyanja" n="Nyanja (Chinyanja)" dir="ltr" iso15924="Latn">
   <title>CHIBVOMEREZO CA LAMULO LOSAMALIRA KHALIDWE LA MUNTHU PA DZIKO LONSE LA PANSI</title>
   <preamble>
     <title>CIYAMBI</title>

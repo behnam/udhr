@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='kha' xml:lang='kha' key='kha' n='Khasi' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="kha" xml:lang="kha" key="kha" n="Khasi" dir="ltr" iso15924="Latn">
    <title>KA JINGPYNBNA-ÏAR SATLAK ÏA KI HOK LONGBRIEW MANBRIEW</title>
    <note>
       <para>Ba la pynbna bad pynjari da ka Dorbar Bah ka Synjuk Ki  katkum ka Rai 217A (III) ha ka 10 Tarik Nohprah 1948, ha Paris, France.</para>
@@ -38,7 +36,7 @@
    </article>
    <article number="5">
       <title>Jinis 5Ym don uwei ne kawei kiba lah ban shah thom sha ka saja, ne ban shah lehbeiñ bymkheiñ briew ne shah pynhiar dor ïa ka kyrdan longbriew manbriew ne jingpynshitom.</title>
-      <para></para>
+      <para/>
    </article>
    <article number="6">
       <title>Jinis 6</title>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="buc" xml:lang="buc" key="buc" n="Bushi" dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="buc" xml:lang="buc" key="buc" n="Bushi" dir="ltr" iso15924="Latn">
    <title>TAFASWIRI AN-KIƁUSHI NIM-MATEKELEZO KI DUNIA NIN-HAKI-L-ADAMÌ</title>
    <preamble>
       <title>ALUHA NIN-VUDIN’NI KURAŊA</title>
@@ -245,6 +243,3 @@
       <para>Tsisi atà sharia areki nim-Matekelezo itì mbu heti kutafaswirinyi amin’ni lalaŋa mikuruhusu, Daula, shikao au huluŋu areki, ihisi haki itsokao yotsi nin-faŋanovaŋa mahafala au ãmali mandrubaka haki ndreka unafasi nikudukuruŋu etu.</para>
    </article>
 </udhr>
-
-
-

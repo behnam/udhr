@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='bho' xml:lang='bho' key='bho' n='Bhojpuri' dir='ltr' iso15924='Deva' xmlns="http://www.unhchr.ch/udhr">
+<udhr xmlns="http://www.unhchr.ch/udhr" iso639-3="bho" xml:lang="bho" key="bho" n="Bhojpuri" dir="ltr" iso15924="Deva">
    <title>मानवाधिकार खातिर संयुक्त राष्ट्र उच्चायुक्त सबहिं के लेल मानवाधिकार मानवाधिकार घोषणा के पचासवां वर्षगांठ</title>
    <note>
       <para>1948 .1998</para>
@@ -249,5 +247,3 @@
       <para>ई घोषणा में लिखल कौनो अनुच्छेद के मतलब इ ना ह कि कौनो राज्य, समूह चाहे व्यक्ति कौनो ऐसन काज में शामिल होखे चाहे कौनो ऐसन काम करे, जेकरा से ए में लिखल अधिकार और स्वतंत्रता नष्ट होखे।</para>
    </article>
 </udhr>
-
-
