@@ -1,0 +1,68 @@
+002C              	    139   	COMMA
+002E              	     74   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     15   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+0391              	     40   	GREEK CAPITAL LETTER ALPHA
+0392              	      1   	GREEK CAPITAL LETTER BETA
+0393              	      3   	GREEK CAPITAL LETTER GAMMA
+0394              	     12   	GREEK CAPITAL LETTER DELTA
+0395              	     20   	GREEK CAPITAL LETTER EPSILON
+0395, 0313        	      1   	GREEK CAPITAL LETTER EPSILON, COMBINING COMMA ABOVE
+0397              	     23   	GREEK CAPITAL LETTER ETA
+0398              	     31   	GREEK CAPITAL LETTER THETA
+0399              	     11   	GREEK CAPITAL LETTER IOTA
+039A              	     43   	GREEK CAPITAL LETTER KAPPA
+039B              	      1   	GREEK CAPITAL LETTER LAMDA
+039C              	      4   	GREEK CAPITAL LETTER MU
+039D              	      5   	GREEK CAPITAL LETTER NU
+039E              	      1   	GREEK CAPITAL LETTER XI
+039F              	     40   	GREEK CAPITAL LETTER OMICRON
+039F, 0301        	      5   	GREEK CAPITAL LETTER OMICRON, COMBINING ACUTE ACCENT
+03A0              	      3   	GREEK CAPITAL LETTER PI
+03A1              	     64   	GREEK CAPITAL LETTER RHO
+03A3              	      5   	GREEK CAPITAL LETTER SIGMA
+03A4              	      5   	GREEK CAPITAL LETTER TAU
+03A5              	      5   	GREEK CAPITAL LETTER UPSILON
+03A7              	      1   	GREEK CAPITAL LETTER CHI
+03A9              	      2   	GREEK CAPITAL LETTER OMEGA
+03B1              	   1118   	GREEK SMALL LETTER ALPHA
+03B1, 0301        	    170   	GREEK SMALL LETTER ALPHA, COMBINING ACUTE ACCENT
+03B2              	     37   	GREEK SMALL LETTER BETA
+03B3              	    111   	GREEK SMALL LETTER GAMMA
+03B4              	    222   	GREEK SMALL LETTER DELTA
+03B5              	    735   	GREEK SMALL LETTER EPSILON
+03B5, 0301        	    190   	GREEK SMALL LETTER EPSILON, COMBINING ACUTE ACCENT
+03B6              	     27   	GREEK SMALL LETTER ZETA
+03B7              	    381   	GREEK SMALL LETTER ETA
+03B7, 0301        	    160   	GREEK SMALL LETTER ETA, COMBINING ACUTE ACCENT
+03B8              	    166   	GREEK SMALL LETTER THETA
+03B9              	    836   	GREEK SMALL LETTER IOTA
+03B9, 0301        	    304   	GREEK SMALL LETTER IOTA, COMBINING ACUTE ACCENT
+03B9, 0308        	      1   	GREEK SMALL LETTER IOTA, COMBINING DIAERESIS
+03BA              	    480   	GREEK SMALL LETTER KAPPA
+03BB              	    218   	GREEK SMALL LETTER LAMDA
+03BC              	    280   	GREEK SMALL LETTER MU
+03BD              	    638   	GREEK SMALL LETTER NU
+03BE              	     59   	GREEK SMALL LETTER XI
+03BF              	    633   	GREEK SMALL LETTER OMICRON
+03BF, 0301        	    145   	GREEK SMALL LETTER OMICRON, COMBINING ACUTE ACCENT
+03C0              	    372   	GREEK SMALL LETTER PI
+03C1              	    366   	GREEK SMALL LETTER RHO
+03C2              	    341   	GREEK SMALL LETTER FINAL SIGMA
+03C3              	    409   	GREEK SMALL LETTER SIGMA
+03C4              	    716   	GREEK SMALL LETTER TAU
+03C5              	    305   	GREEK SMALL LETTER UPSILON
+03C5, 0301        	     75   	GREEK SMALL LETTER UPSILON, COMBINING ACUTE ACCENT
+03C6              	     48   	GREEK SMALL LETTER PHI
+03C7              	    100   	GREEK SMALL LETTER CHI
+03C8              	      9   	GREEK SMALL LETTER PSI
+03C9              	    189   	GREEK SMALL LETTER OMEGA
+03C9, 0301        	     79   	GREEK SMALL LETTER OMEGA, COMBINING ACUTE ACCENT

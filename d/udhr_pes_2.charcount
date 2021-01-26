@@ -1,0 +1,53 @@
+0028              	      1   	LEFT PARENTHESIS
+0029              	      1   	RIGHT PARENTHESIS
+002E              	     64   	FULL STOP
+003A              	     30   	COLON
+060C              	     64   	ARABIC COMMA
+0621              	      1   	ARABIC LETTER HAMZA
+0627              	    993   	ARABIC LETTER ALEF
+0627, 064B        	     10   	ARABIC LETTER ALEF, ARABIC FATHATAN
+0627, 0653        	     81   	ARABIC LETTER ALEF, ARABIC MADDAH ABOVE
+0627, 0654        	     11   	ARABIC LETTER ALEF, ARABIC HAMZA ABOVE
+0628              	    292   	ARABIC LETTER BEH
+062A              	    315   	ARABIC LETTER TEH
+062A, 200C        	      3   	ARABIC LETTER TEH, ZERO WIDTH NON-JOINER
+062B              	      8   	ARABIC LETTER THEH
+062C              	     88   	ARABIC LETTER JEEM
+062D              	    136   	ARABIC LETTER HAH
+062E              	     83   	ARABIC LETTER KHAH
+062F              	    599   	ARABIC LETTER DAL
+0630              	     15   	ARABIC LETTER THAL
+0631              	    546   	ARABIC LETTER REH
+0632              	    133   	ARABIC LETTER ZAIN
+0633              	    185   	ARABIC LETTER SEEN
+0634              	    171   	ARABIC LETTER SHEEN
+0635              	     40   	ARABIC LETTER SAD
+0636              	     29   	ARABIC LETTER DAD
+0637              	     25   	ARABIC LETTER TAH
+0638              	     14   	ARABIC LETTER ZAH
+0639              	    142   	ARABIC LETTER AIN
+063A              	      8   	ARABIC LETTER GHAIN
+0641              	     60   	ARABIC LETTER FEH
+0642              	    175   	ARABIC LETTER QAF
+0644              	    167   	ARABIC LETTER LAM
+0645              	    487   	ARABIC LETTER MEEM
+0646              	    400   	ARABIC LETTER NOON
+0646, 200C        	      6   	ARABIC LETTER NOON, ZERO WIDTH NON-JOINER
+0647              	    420   	ARABIC LETTER HEH
+0647, 0654        	     10   	ARABIC LETTER HEH, ARABIC HAMZA ABOVE
+0647, 200C        	     20   	ARABIC LETTER HEH, ZERO WIDTH NON-JOINER
+0648              	    481   	ARABIC LETTER WAW
+064A, 0654        	      8   	ARABIC LETTER YEH, ARABIC HAMZA ABOVE
+067E              	     19   	ARABIC LETTER PEH
+0686              	     29   	ARABIC LETTER TCHEH
+0698              	      4   	ARABIC LETTER JEH
+06A9              	    207   	ARABIC LETTER KEHEH
+06AF              	     64   	ARABIC LETTER GAF
+06CC              	    593   	ARABIC LETTER FARSI YEH
+06CC, 200C        	      7   	ARABIC LETTER FARSI YEH, ZERO WIDTH NON-JOINER
+06F1              	      2   	EXTENDED ARABIC-INDIC DIGIT ONE
+06F2              	      1   	EXTENDED ARABIC-INDIC DIGIT TWO
+06F4              	      1   	EXTENDED ARABIC-INDIC DIGIT FOUR
+06F8              	      1   	EXTENDED ARABIC-INDIC DIGIT EIGHT
+06F9              	      1   	EXTENDED ARABIC-INDIC DIGIT NINE
+2010              	      2   	HYPHEN

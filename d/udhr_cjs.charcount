@@ -1,0 +1,74 @@
+0028              	      1   	LEFT PARENTHESIS
+0029              	      1   	RIGHT PARENTHESIS
+002C              	    210   	COMMA
+002D              	     33   	HYPHEN-MINUS
+002E              	     65   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     16   	DIGIT ONE
+0032              	     14   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      4   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+003B              	     13   	SEMICOLON
+0041              	      1   	LATIN CAPITAL LETTER A
+0049              	      3   	LATIN CAPITAL LETTER I
+0410              	     11   	CYRILLIC CAPITAL LETTER A
+0411              	      1   	CYRILLIC CAPITAL LETTER BE
+0412              	      1   	CYRILLIC CAPITAL LETTER VE
+0413              	      3   	CYRILLIC CAPITAL LETTER GHE
+0415              	      1   	CYRILLIC CAPITAL LETTER IE
+0417              	      1   	CYRILLIC CAPITAL LETTER ZE
+0418              	      2   	CYRILLIC CAPITAL LETTER I
+041A              	     15   	CYRILLIC CAPITAL LETTER KA
+041B              	      2   	CYRILLIC CAPITAL LETTER EL
+041C              	      1   	CYRILLIC CAPITAL LETTER EM
+041D              	      5   	CYRILLIC CAPITAL LETTER EN
+041E              	      1   	CYRILLIC CAPITAL LETTER O
+041E, 0308        	      1   	CYRILLIC CAPITAL LETTER O, COMBINING DIAERESIS
+041F              	     40   	CYRILLIC CAPITAL LETTER PE
+0420              	      4   	CYRILLIC CAPITAL LETTER ER
+0421              	     35   	CYRILLIC CAPITAL LETTER ES
+0422              	      4   	CYRILLIC CAPITAL LETTER TE
+0423              	      2   	CYRILLIC CAPITAL LETTER U
+042B              	      1   	CYRILLIC CAPITAL LETTER YERU
+042D              	      1   	CYRILLIC CAPITAL LETTER E
+0430              	    939   	CYRILLIC SMALL LETTER A
+0431              	     82   	CYRILLIC SMALL LETTER BE
+0432              	      7   	CYRILLIC SMALL LETTER VE
+0433              	     90   	CYRILLIC SMALL LETTER GHE
+0434              	    169   	CYRILLIC SMALL LETTER DE
+0435              	    382   	CYRILLIC SMALL LETTER IE
+0436              	    117   	CYRILLIC SMALL LETTER ZHE
+0437              	    186   	CYRILLIC SMALL LETTER ZE
+0438              	    403   	CYRILLIC SMALL LETTER I
+0438, 0306        	     60   	CYRILLIC SMALL LETTER I, COMBINING BREVE
+043A              	    203   	CYRILLIC SMALL LETTER KA
+043B              	    264   	CYRILLIC SMALL LETTER EL
+043C              	     38   	CYRILLIC SMALL LETTER EM
+043D              	    501   	CYRILLIC SMALL LETTER EN
+043E              	    216   	CYRILLIC SMALL LETTER O
+043E, 0308        	     45   	CYRILLIC SMALL LETTER O, COMBINING DIAERESIS
+043F              	    220   	CYRILLIC SMALL LETTER PE
+0440              	    388   	CYRILLIC SMALL LETTER ER
+0441              	    137   	CYRILLIC SMALL LETTER ES
+0442              	    298   	CYRILLIC SMALL LETTER TE
+0443              	    102   	CYRILLIC SMALL LETTER U
+0443, 0308        	     56   	CYRILLIC SMALL LETTER U, COMBINING DIAERESIS
+0444              	      7   	CYRILLIC SMALL LETTER EF
+0445              	      4   	CYRILLIC SMALL LETTER HA
+0446              	     14   	CYRILLIC SMALL LETTER TSE
+0447              	    187   	CYRILLIC SMALL LETTER CHE
+0448              	     91   	CYRILLIC SMALL LETTER SHA
+044A              	      5   	CYRILLIC SMALL LETTER HARD SIGN
+044B              	    448   	CYRILLIC SMALL LETTER YERU
+044C              	     35   	CYRILLIC SMALL LETTER SOFT SIGN
+044D              	     28   	CYRILLIC SMALL LETTER E
+044E              	      5   	CYRILLIC SMALL LETTER YU
+044F              	     50   	CYRILLIC SMALL LETTER YA
+0493              	    162   	CYRILLIC SMALL LETTER GHE WITH STROKE
+049B              	    186   	CYRILLIC SMALL LETTER KA WITH DESCENDER
+04A3              	     80   	CYRILLIC SMALL LETTER EN WITH DESCENDER

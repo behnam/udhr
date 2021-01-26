@@ -1,0 +1,43 @@
+002C              	     99   	COMMA
+002D              	     16   	HYPHEN-MINUS
+002E              	     78   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     12   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003B              	      4   	SEMICOLON
+0041              	      8   	LATIN CAPITAL LETTER A
+0042              	     16   	LATIN CAPITAL LETTER B
+0044              	      4   	LATIN CAPITAL LETTER D
+004B              	     57   	LATIN CAPITAL LETTER K
+004C              	     10   	LATIN CAPITAL LETTER L
+004D              	      9   	LATIN CAPITAL LETTER M
+004E              	     19   	LATIN CAPITAL LETTER N
+0059              	      9   	LATIN CAPITAL LETTER Y
+0061              	   1862   	LATIN SMALL LETTER A
+0062              	    331   	LATIN SMALL LETTER B
+0064              	    291   	LATIN SMALL LETTER D
+0065              	    385   	LATIN SMALL LETTER E
+0066              	     69   	LATIN SMALL LETTER F
+0067              	     89   	LATIN SMALL LETTER G
+0069              	    714   	LATIN SMALL LETTER I
+006A              	      1   	LATIN SMALL LETTER J
+006B              	    617   	LATIN SMALL LETTER K
+006C              	    367   	LATIN SMALL LETTER L
+006D              	    529   	LATIN SMALL LETTER M
+006E              	   1002   	LATIN SMALL LETTER N
+006F              	    329   	LATIN SMALL LETTER O
+0070              	    127   	LATIN SMALL LETTER P
+0073              	    348   	LATIN SMALL LETTER S
+0074              	    334   	LATIN SMALL LETTER T
+0075              	    968   	LATIN SMALL LETTER U
+0076              	    146   	LATIN SMALL LETTER V
+0077              	    191   	LATIN SMALL LETTER W
+0079              	    593   	LATIN SMALL LETTER Y
+007A              	    138   	LATIN SMALL LETTER Z

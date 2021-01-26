@@ -1,0 +1,110 @@
+002C              	      2   	COMMA
+002E              	      3   	FULL STOP
+002F              	      1   	SOLIDUS
+0040              	      1   	COMMERCIAL AT
+0041              	      2   	LATIN CAPITAL LETTER A
+0049              	      1   	LATIN CAPITAL LETTER I
+0050              	      1   	LATIN CAPITAL LETTER P
+0052              	      1   	LATIN CAPITAL LETTER R
+0053              	      1   	LATIN CAPITAL LETTER S
+0054              	      1   	LATIN CAPITAL LETTER T
+005B              	      1   	LEFT SQUARE BRACKET
+005D              	      1   	RIGHT SQUARE BRACKET
+0061              	      6   	LATIN SMALL LETTER A
+0062              	      3   	LATIN SMALL LETTER B
+0064              	      3   	LATIN SMALL LETTER D
+0065              	      1   	LATIN SMALL LETTER E
+0068              	      2   	LATIN SMALL LETTER H
+0069              	      4   	LATIN SMALL LETTER I
+006B              	      1   	LATIN SMALL LETTER K
+006D              	      1   	LATIN SMALL LETTER M
+006E              	      3   	LATIN SMALL LETTER N
+0070              	      2   	LATIN SMALL LETTER P
+0072              	      2   	LATIN SMALL LETTER R
+0073              	      2   	LATIN SMALL LETTER S
+0074              	      3   	LATIN SMALL LETTER T
+0077              	      3   	LATIN SMALL LETTER W
+0079              	      1   	LATIN SMALL LETTER Y
+0601              	      1   	ARABIC SIGN SANAH
+060C              	     59   	ARABIC COMMA
+060D              	      1   	ARABIC DATE SEPARATOR
+0621              	      1   	ARABIC LETTER HAMZA
+0627              	   1033   	ARABIC LETTER ALEF
+0627, 064B        	      6   	ARABIC LETTER ALEF, ARABIC FATHATAN
+0627, 064F        	      3   	ARABIC LETTER ALEF, ARABIC DAMMA
+0627, 0653        	     41   	ARABIC LETTER ALEF, ARABIC MADDAH ABOVE
+0628              	    154   	ARABIC LETTER BEH
+0628, 064E        	      1   	ARABIC LETTER BEH, ARABIC FATHA
+062A              	    235   	ARABIC LETTER TEH
+062B              	     10   	ARABIC LETTER THEH
+062B, 0651        	      1   	ARABIC LETTER THEH, ARABIC SHADDA
+062C              	    112   	ARABIC LETTER JEEM
+062C, 064F        	      1   	ARABIC LETTER JEEM, ARABIC DAMMA
+062D              	    148   	ARABIC LETTER HAH
+062E              	     83   	ARABIC LETTER KHAH
+062F              	    236   	ARABIC LETTER DAL
+062F, 0651        	      1   	ARABIC LETTER DAL, ARABIC SHADDA
+0630              	     23   	ARABIC LETTER THAL
+0631              	    508   	ARABIC LETTER REH
+0631, 0650        	      2   	ARABIC LETTER REH, ARABIC KASRA
+0631, 0651        	      1   	ARABIC LETTER REH, ARABIC SHADDA
+0632              	     69   	ARABIC LETTER ZAIN
+0633              	    268   	ARABIC LETTER SEEN
+0634              	    103   	ARABIC LETTER SHEEN
+0635              	     86   	ARABIC LETTER SAD
+0635, 0651        	      1   	ARABIC LETTER SAD, ARABIC SHADDA
+0636              	     24   	ARABIC LETTER DAD
+0637              	     23   	ARABIC LETTER TAH
+0638              	     24   	ARABIC LETTER ZAH
+0639              	    153   	ARABIC LETTER AIN
+063A              	     17   	ARABIC LETTER GHAIN
+0641              	     97   	ARABIC LETTER FEH
+0641, 0651        	      5   	ARABIC LETTER FEH, ARABIC SHADDA
+0642              	    195   	ARABIC LETTER QAF
+0642, 0650        	      1   	ARABIC LETTER QAF, ARABIC KASRA
+0644              	    213   	ARABIC LETTER LAM
+0644, 0650        	      2   	ARABIC LETTER LAM, ARABIC KASRA
+0645              	    375   	ARABIC LETTER MEEM
+0645, 0650        	      8   	ARABIC LETTER MEEM, ARABIC KASRA
+0645, 0651        	      1   	ARABIC LETTER MEEM, ARABIC SHADDA
+0646              	    346   	ARABIC LETTER NOON
+0646, 0650        	      2   	ARABIC LETTER NOON, ARABIC KASRA
+0646, 0651        	      1   	ARABIC LETTER NOON, ARABIC SHADDA
+0648              	    519   	ARABIC LETTER WAW
+0648, 0651        	      1   	ARABIC LETTER WAW, ARABIC SHADDA
+0648, 0654        	      3   	ARABIC LETTER WAW, ARABIC HAMZA ABOVE
+064A, 0654        	    108   	ARABIC LETTER YEH, ARABIC HAMZA ABOVE
+0679              	      5   	ARABIC LETTER TTEH
+067E              	     78   	ARABIC LETTER PEH
+067E, 064F        	      1   	ARABIC LETTER PEH, ARABIC DAMMA
+0686              	     26   	ARABIC LETTER TCHEH
+0686, 0651        	      2   	ARABIC LETTER TCHEH, ARABIC SHADDA
+0688              	      3   	ARABIC LETTER DDAL
+0691              	      5   	ARABIC LETTER RREH
+06A9              	    496   	ARABIC LETTER KEHEH
+06A9, 0650        	      1   	ARABIC LETTER KEHEH, ARABIC KASRA
+06AF              	     66   	ARABIC LETTER GAF
+06BA              	    159   	ARABIC LETTER NOON GHUNNA
+06BE              	     36   	ARABIC LETTER HEH DOACHASHMEE
+06C1              	    366   	ARABIC LETTER HEH GOAL
+06C1, 0650        	      1   	ARABIC LETTER HEH GOAL, ARABIC KASRA
+06C1, 0654        	      1   	ARABIC LETTER HEH GOAL, ARABIC HAMZA ABOVE
+06C1, 0670        	      1   	ARABIC LETTER HEH GOAL, ARABIC LETTER SUPERSCRIPT ALEF
+06CC              	    680   	ARABIC LETTER FARSI YEH
+06CC, 0651        	      1   	ARABIC LETTER FARSI YEH, ARABIC SHADDA
+06CC, 0654        	      3   	ARABIC LETTER FARSI YEH, ARABIC HAMZA ABOVE
+06CC, 0670        	      1   	ARABIC LETTER FARSI YEH, ARABIC LETTER SUPERSCRIPT ALEF
+06D2              	    393   	ARABIC LETTER YEH BARREE
+06D4              	    108   	ARABIC FULL STOP
+06F0              	      4   	EXTENDED ARABIC-INDIC DIGIT ZERO
+06F1              	     15   	EXTENDED ARABIC-INDIC DIGIT ONE
+06F2              	     13   	EXTENDED ARABIC-INDIC DIGIT TWO
+06F3              	      4   	EXTENDED ARABIC-INDIC DIGIT THREE
+06F4              	      4   	EXTENDED ARABIC-INDIC DIGIT FOUR
+06F5              	      3   	EXTENDED ARABIC-INDIC DIGIT FIVE
+06F6              	      3   	EXTENDED ARABIC-INDIC DIGIT SIX
+06F7              	      3   	EXTENDED ARABIC-INDIC DIGIT SEVEN
+06F8              	      4   	EXTENDED ARABIC-INDIC DIGIT EIGHT
+06F9              	      4   	EXTENDED ARABIC-INDIC DIGIT NINE
+201C              	      1   	LEFT DOUBLE QUOTATION MARK
+201D              	      1   	RIGHT DOUBLE QUOTATION MARK

@@ -1,0 +1,102 @@
+002C              	     94   	COMMA
+002D              	      6   	HYPHEN-MINUS
+002E              	     61   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003B              	      4   	SEMICOLON
+13A0              	     35   	CHEROKEE LETTER A
+13A2              	      1   	CHEROKEE LETTER I
+13A4              	      8   	CHEROKEE LETTER U
+13A5              	      1   	CHEROKEE LETTER V
+13A7              	      1   	CHEROKEE LETTER KA
+13AC              	      7   	CHEROKEE LETTER GV
+13AF              	      3   	CHEROKEE LETTER HI
+13BE              	      5   	CHEROKEE LETTER NA
+13C2              	     34   	CHEROKEE LETTER NI
+13D7              	      2   	CHEROKEE LETTER DI
+13DD              	      5   	CHEROKEE LETTER TLA
+13E7              	      3   	CHEROKEE LETTER TSU
+13F8              	     53   	CHEROKEE SMALL LETTER YE
+13F9              	     43   	CHEROKEE SMALL LETTER YI
+13FA              	     14   	CHEROKEE SMALL LETTER YO
+13FB              	    152   	CHEROKEE SMALL LETTER YU
+13FC              	     95   	CHEROKEE SMALL LETTER YV
+AB70              	    390   	CHEROKEE SMALL LETTER A
+AB71              	     17   	CHEROKEE SMALL LETTER E
+AB72              	    287   	CHEROKEE SMALL LETTER I
+AB73              	      7   	CHEROKEE SMALL LETTER O
+AB74              	    271   	CHEROKEE SMALL LETTER U
+AB75              	     32   	CHEROKEE SMALL LETTER V
+AB76              	    200   	CHEROKEE SMALL LETTER GA
+AB77              	     27   	CHEROKEE SMALL LETTER KA
+AB78              	     72   	CHEROKEE SMALL LETTER GE
+AB79              	    334   	CHEROKEE SMALL LETTER GI
+AB7A              	    101   	CHEROKEE SMALL LETTER GO
+AB7B              	     11   	CHEROKEE SMALL LETTER GU
+AB7C              	    107   	CHEROKEE SMALL LETTER GV
+AB7D              	     24   	CHEROKEE SMALL LETTER HA
+AB7E              	     15   	CHEROKEE SMALL LETTER HE
+AB7F              	    131   	CHEROKEE SMALL LETTER HI
+AB80              	      4   	CHEROKEE SMALL LETTER HO
+AB81              	      2   	CHEROKEE SMALL LETTER HU
+AB82              	    104   	CHEROKEE SMALL LETTER HV
+AB83              	     53   	CHEROKEE SMALL LETTER LA
+AB84              	    159   	CHEROKEE SMALL LETTER LE
+AB85              	    193   	CHEROKEE SMALL LETTER LI
+AB86              	     33   	CHEROKEE SMALL LETTER LO
+AB87              	      8   	CHEROKEE SMALL LETTER LU
+AB88              	    116   	CHEROKEE SMALL LETTER LV
+AB8E              	    563   	CHEROKEE SMALL LETTER NA
+AB8F              	     34   	CHEROKEE SMALL LETTER HNA
+AB91              	    101   	CHEROKEE SMALL LETTER NE
+AB92              	    309   	CHEROKEE SMALL LETTER NI
+AB93              	     67   	CHEROKEE SMALL LETTER NO
+AB94              	     27   	CHEROKEE SMALL LETTER NU
+AB95              	    149   	CHEROKEE SMALL LETTER NV
+AB96              	     12   	CHEROKEE SMALL LETTER QUA
+AB97              	      1   	CHEROKEE SMALL LETTER QUE
+AB98              	      1   	CHEROKEE SMALL LETTER QUI
+AB99              	     58   	CHEROKEE SMALL LETTER QUO
+AB9A              	     25   	CHEROKEE SMALL LETTER QUU
+AB9C              	     19   	CHEROKEE SMALL LETTER SA
+AB9D              	    547   	CHEROKEE SMALL LETTER S
+AB9E              	     33   	CHEROKEE SMALL LETTER SE
+AB9F              	     28   	CHEROKEE SMALL LETTER SI
+ABA0              	     11   	CHEROKEE SMALL LETTER SO
+ABA1              	      6   	CHEROKEE SMALL LETTER SU
+ABA2              	     81   	CHEROKEE SMALL LETTER SV
+ABA3              	    211   	CHEROKEE SMALL LETTER DA
+ABA4              	     43   	CHEROKEE SMALL LETTER TA
+ABA5              	     78   	CHEROKEE SMALL LETTER DE
+ABA6              	      7   	CHEROKEE SMALL LETTER TE
+ABA7              	    413   	CHEROKEE SMALL LETTER DI
+ABA8              	     17   	CHEROKEE SMALL LETTER TI
+ABA9              	    176   	CHEROKEE SMALL LETTER DO
+ABAA              	    112   	CHEROKEE SMALL LETTER DU
+ABAB              	    228   	CHEROKEE SMALL LETTER DV
+ABAC              	      7   	CHEROKEE SMALL LETTER DLA
+ABAD              	     14   	CHEROKEE SMALL LETTER TLA
+ABAF              	     21   	CHEROKEE SMALL LETTER TLI
+ABB0              	     29   	CHEROKEE SMALL LETTER TLO
+ABB1              	      5   	CHEROKEE SMALL LETTER TLU
+ABB2              	     49   	CHEROKEE SMALL LETTER TLV
+ABB3              	     12   	CHEROKEE SMALL LETTER TSA
+ABB4              	     26   	CHEROKEE SMALL LETTER TSE
+ABB5              	     24   	CHEROKEE SMALL LETTER TSI
+ABB6              	      1   	CHEROKEE SMALL LETTER TSO
+ABB7              	     52   	CHEROKEE SMALL LETTER TSU
+ABB8              	     26   	CHEROKEE SMALL LETTER TSV
+ABB9              	     59   	CHEROKEE SMALL LETTER WA
+ABBA              	      6   	CHEROKEE SMALL LETTER WE
+ABBB              	    103   	CHEROKEE SMALL LETTER WI
+ABBC              	      8   	CHEROKEE SMALL LETTER WO
+ABBD              	     13   	CHEROKEE SMALL LETTER WU
+ABBF              	     78   	CHEROKEE SMALL LETTER YA

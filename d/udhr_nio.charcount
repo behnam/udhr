@@ -1,0 +1,64 @@
+0028              	     62   	LEFT PARENTHESIS
+0029              	     62   	RIGHT PARENTHESIS
+002C              	    130   	COMMA
+002D              	      5   	HYPHEN-MINUS
+002E              	     59   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	     10   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      4   	COLON
+003B              	      9   	SEMICOLON
+0410              	      1   	CYRILLIC CAPITAL LETTER A
+0411              	      5   	CYRILLIC CAPITAL LETTER BE
+0413              	      1   	CYRILLIC CAPITAL LETTER GHE
+0414              	      6   	CYRILLIC CAPITAL LETTER DE
+041A              	     29   	CYRILLIC CAPITAL LETTER KA
+041C              	      3   	CYRILLIC CAPITAL LETTER EM
+041D              	     11   	CYRILLIC CAPITAL LETTER EN
+041E              	      5   	CYRILLIC CAPITAL LETTER O
+0421              	     45   	CYRILLIC CAPITAL LETTER ES
+0422              	     13   	CYRILLIC CAPITAL LETTER TE
+0423              	      1   	CYRILLIC CAPITAL LETTER U
+0430              	    650   	CYRILLIC SMALL LETTER A
+0431              	    217   	CYRILLIC SMALL LETTER BE
+0432              	     83   	CYRILLIC SMALL LETTER VE
+0433              	    110   	CYRILLIC SMALL LETTER GHE
+0434              	    307   	CYRILLIC SMALL LETTER DE
+0435              	    349   	CYRILLIC SMALL LETTER IE
+0436              	      9   	CYRILLIC SMALL LETTER ZHE
+0437              	    146   	CYRILLIC SMALL LETTER ZE
+0438              	    668   	CYRILLIC SMALL LETTER I
+0438, 0306        	    125   	CYRILLIC SMALL LETTER I, COMBINING BREVE
+043A              	    198   	CYRILLIC SMALL LETTER KA
+043B              	    216   	CYRILLIC SMALL LETTER EL
+043C              	    298   	CYRILLIC SMALL LETTER EM
+043D              	    893   	CYRILLIC SMALL LETTER EN
+043E              	    363   	CYRILLIC SMALL LETTER O
+043F              	     65   	CYRILLIC SMALL LETTER PE
+0440              	    319   	CYRILLIC SMALL LETTER ER
+0441              	    400   	CYRILLIC SMALL LETTER ES
+0442              	    849   	CYRILLIC SMALL LETTER TE
+0443              	    480   	CYRILLIC SMALL LETTER U
+0445              	    158   	CYRILLIC SMALL LETTER HA
+0446              	     28   	CYRILLIC SMALL LETTER TSE
+0447              	     10   	CYRILLIC SMALL LETTER CHE
+0449              	      5   	CYRILLIC SMALL LETTER SHCHA
+044A              	      5   	CYRILLIC SMALL LETTER HARD SIGN
+044B              	    432   	CYRILLIC SMALL LETTER YERU
+044C              	     43   	CYRILLIC SMALL LETTER SOFT SIGN
+044D              	      2   	CYRILLIC SMALL LETTER E
+044E              	      3   	CYRILLIC SMALL LETTER YU
+044F              	    249   	CYRILLIC SMALL LETTER YA
+04AB              	     25   	CYRILLIC SMALL LETTER ES WITH DESCENDER
+04AF              	    251   	CYRILLIC SMALL LETTER STRAIGHT U
+04C8              	    369   	CYRILLIC SMALL LETTER EN WITH HOOK
+04D9              	    966   	CYRILLIC SMALL LETTER SCHWA
+04E9              	     20   	CYRILLIC SMALL LETTER BARRED O
+201D              	    328   	RIGHT DOUBLE QUOTATION MARK

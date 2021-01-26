@@ -1,0 +1,67 @@
+002C              	    177   	COMMA
+002D              	      5   	HYPHEN-MINUS
+002E              	     98   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      2   	COLON
+0041              	     65   	LATIN CAPITAL LETTER A
+0041, 0308        	      2   	LATIN CAPITAL LETTER A, COMBINING DIAERESIS
+0042              	     16   	LATIN CAPITAL LETTER B
+0043              	      1   	LATIN CAPITAL LETTER C
+0044              	     43   	LATIN CAPITAL LETTER D
+0045              	     49   	LATIN CAPITAL LETTER E
+0046              	     35   	LATIN CAPITAL LETTER F
+0047              	     52   	LATIN CAPITAL LETTER G
+0048              	     12   	LATIN CAPITAL LETTER H
+0049              	      6   	LATIN CAPITAL LETTER I
+004B              	     16   	LATIN CAPITAL LETTER K
+004C              	     21   	LATIN CAPITAL LETTER L
+004D              	     43   	LATIN CAPITAL LETTER M
+004E              	     10   	LATIN CAPITAL LETTER N
+004F              	     11   	LATIN CAPITAL LETTER O
+004F, 0308        	      4   	LATIN CAPITAL LETTER O, COMBINING DIAERESIS
+0050              	     10   	LATIN CAPITAL LETTER P
+0052              	     55   	LATIN CAPITAL LETTER R
+0053              	     63   	LATIN CAPITAL LETTER S
+0054              	     12   	LATIN CAPITAL LETTER T
+0055              	      6   	LATIN CAPITAL LETTER U
+0055, 0308        	     13   	LATIN CAPITAL LETTER U, COMBINING DIAERESIS
+0056              	     36   	LATIN CAPITAL LETTER V
+0057              	     25   	LATIN CAPITAL LETTER W
+0061              	    647   	LATIN SMALL LETTER A
+0061, 0308        	     14   	LATIN SMALL LETTER A, COMBINING DIAERESIS
+0062              	     90   	LATIN SMALL LETTER B
+0063              	    233   	LATIN SMALL LETTER C
+0064              	    510   	LATIN SMALL LETTER D
+0065              	   1581   	LATIN SMALL LETTER E
+0066              	    133   	LATIN SMALL LETTER F
+0067              	    158   	LATIN SMALL LETTER G
+0068              	    431   	LATIN SMALL LETTER H
+0069              	    445   	LATIN SMALL LETTER I
+006A              	      7   	LATIN SMALL LETTER J
+006B              	    225   	LATIN SMALL LETTER K
+006C              	    429   	LATIN SMALL LETTER L
+006D              	    105   	LATIN SMALL LETTER M
+006E              	   1212   	LATIN SMALL LETTER N
+006F              	    266   	LATIN SMALL LETTER O
+006F, 0308        	    122   	LATIN SMALL LETTER O, COMBINING DIAERESIS
+0070              	     88   	LATIN SMALL LETTER P
+0071              	      3   	LATIN SMALL LETTER Q
+0072              	    647   	LATIN SMALL LETTER R
+0073              	    382   	LATIN SMALL LETTER S
+0074              	    876   	LATIN SMALL LETTER T
+0075              	    368   	LATIN SMALL LETTER U
+0075, 0308        	    107   	LATIN SMALL LETTER U, COMBINING DIAERESIS
+0076              	    137   	LATIN SMALL LETTER V
+0077              	    142   	LATIN SMALL LETTER W
+0079              	      2   	LATIN SMALL LETTER Y
+007A              	     11   	LATIN SMALL LETTER Z
+2019              	      8   	RIGHT SINGLE QUOTATION MARK

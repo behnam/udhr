@@ -1,0 +1,46 @@
+0027              	     35   	APOSTROPHE
+002C              	     74   	COMMA
+002D              	     46   	HYPHEN-MINUS
+002E              	     82   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      5   	COLON
+0042              	      1   	LATIN CAPITAL LETTER B
+0048              	      1   	LATIN CAPITAL LETTER H
+0055              	      2   	LATIN CAPITAL LETTER U
+0061              	    935   	LATIN SMALL LETTER A
+0062              	    223   	LATIN SMALL LETTER B
+0063              	     60   	LATIN SMALL LETTER C
+0064              	    404   	LATIN SMALL LETTER D
+0065              	    904   	LATIN SMALL LETTER E
+0065, 0301        	     81   	LATIN SMALL LETTER E, COMBINING ACUTE ACCENT
+0067              	    283   	LATIN SMALL LETTER G
+0068              	    717   	LATIN SMALL LETTER H
+0069              	   1519   	LATIN SMALL LETTER I
+006A              	     62   	LATIN SMALL LETTER J
+006B              	    312   	LATIN SMALL LETTER K
+006C              	    654   	LATIN SMALL LETTER L
+006D              	    406   	LATIN SMALL LETTER M
+006E              	    664   	LATIN SMALL LETTER N
+006F              	    207   	LATIN SMALL LETTER O
+006F, 0308        	     88   	LATIN SMALL LETTER O, COMBINING DIAERESIS
+0070              	     91   	LATIN SMALL LETTER P
+0071              	    544   	LATIN SMALL LETTER Q
+0072              	    434   	LATIN SMALL LETTER R
+0073              	    475   	LATIN SMALL LETTER S
+0074              	    378   	LATIN SMALL LETTER T
+0075              	    397   	LATIN SMALL LETTER U
+0075, 0308        	     69   	LATIN SMALL LETTER U, COMBINING DIAERESIS
+0077              	    143   	LATIN SMALL LETTER W
+0078              	     55   	LATIN SMALL LETTER X
+0079              	    233   	LATIN SMALL LETTER Y
+007A              	    115   	LATIN SMALL LETTER Z
+2019              	      1   	RIGHT SINGLE QUOTATION MARK

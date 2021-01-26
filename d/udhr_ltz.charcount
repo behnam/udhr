@@ -1,0 +1,76 @@
+0027              	    102   	APOSTROPHE
+002C              	    138   	COMMA
+002D              	      9   	HYPHEN-MINUS
+002E              	     62   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      1   	COLON
+003B              	      5   	SEMICOLON
+0041              	     90   	LATIN CAPITAL LETTER A
+0041, 0308        	      1   	LATIN CAPITAL LETTER A, COMBINING DIAERESIS
+0042              	     17   	LATIN CAPITAL LETTER B
+0043              	      8   	LATIN CAPITAL LETTER C
+0044              	     33   	LATIN CAPITAL LETTER D
+0045              	     36   	LATIN CAPITAL LETTER E
+0045, 0301        	      2   	LATIN CAPITAL LETTER E, COMBINING ACUTE ACCENT
+0045, 0308        	      6   	LATIN CAPITAL LETTER E, COMBINING DIAERESIS
+0046              	     41   	LATIN CAPITAL LETTER F
+0047              	     55   	LATIN CAPITAL LETTER G
+0048              	      8   	LATIN CAPITAL LETTER H
+0049              	     13   	LATIN CAPITAL LETTER I
+004A              	      6   	LATIN CAPITAL LETTER J
+004B              	     22   	LATIN CAPITAL LETTER K
+004C              	     27   	LATIN CAPITAL LETTER L
+004D              	     65   	LATIN CAPITAL LETTER M
+004E              	     25   	LATIN CAPITAL LETTER N
+004F              	     12   	LATIN CAPITAL LETTER O
+004F, 0308        	      2   	LATIN CAPITAL LETTER O, COMBINING DIAERESIS
+0050              	     19   	LATIN CAPITAL LETTER P
+0052              	     92   	LATIN CAPITAL LETTER R
+0053              	     39   	LATIN CAPITAL LETTER S
+0054              	      7   	LATIN CAPITAL LETTER T
+0055              	     22   	LATIN CAPITAL LETTER U
+0056              	     24   	LATIN CAPITAL LETTER V
+0057              	     26   	LATIN CAPITAL LETTER W
+005A              	      4   	LATIN CAPITAL LETTER Z
+0061              	    569   	LATIN SMALL LETTER A
+0061, 0300        	      1   	LATIN SMALL LETTER A, COMBINING GRAVE ACCENT
+0061, 0308        	     74   	LATIN SMALL LETTER A, COMBINING DIAERESIS
+0062              	     54   	LATIN SMALL LETTER B
+0063              	    334   	LATIN SMALL LETTER C
+0064              	    467   	LATIN SMALL LETTER D
+0065              	   1547   	LATIN SMALL LETTER E
+0065, 0301        	    163   	LATIN SMALL LETTER E, COMBINING ACUTE ACCENT
+0065, 0302        	      3   	LATIN SMALL LETTER E, COMBINING CIRCUMFLEX ACCENT
+0065, 0308        	    128   	LATIN SMALL LETTER E, COMBINING DIAERESIS
+0066              	    160   	LATIN SMALL LETTER F
+0067              	    286   	LATIN SMALL LETTER G
+0068              	    433   	LATIN SMALL LETTER H
+0069              	    563   	LATIN SMALL LETTER I
+006A              	      4   	LATIN SMALL LETTER J
+006B              	    129   	LATIN SMALL LETTER K
+006C              	    448   	LATIN SMALL LETTER L
+006D              	    195   	LATIN SMALL LETTER M
+006E              	    939   	LATIN SMALL LETTER N
+006F              	    345   	LATIN SMALL LETTER O
+006F, 0302        	      2   	LATIN SMALL LETTER O, COMBINING CIRCUMFLEX ACCENT
+006F, 0308        	      5   	LATIN SMALL LETTER O, COMBINING DIAERESIS
+0070              	     83   	LATIN SMALL LETTER P
+0072              	    663   	LATIN SMALL LETTER R
+0073              	    459   	LATIN SMALL LETTER S
+0074              	    659   	LATIN SMALL LETTER T
+0075              	    340   	LATIN SMALL LETTER U
+0075, 0308        	      2   	LATIN SMALL LETTER U, COMBINING DIAERESIS
+0076              	    113   	LATIN SMALL LETTER V
+0077              	     83   	LATIN SMALL LETTER W
+0078              	      1   	LATIN SMALL LETTER X
+0079              	      3   	LATIN SMALL LETTER Y
+007A              	    119   	LATIN SMALL LETTER Z

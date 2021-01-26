@@ -1,0 +1,47 @@
+0028              	      2   	LEFT PARENTHESIS
+0029              	      2   	RIGHT PARENTHESIS
+002C              	    143   	COMMA
+002D              	      1   	HYPHEN-MINUS
+002E              	     61   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     15   	DIGIT ONE
+0032              	     14   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      4   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+003B              	      6   	SEMICOLON
+0041              	     66   	LATIN CAPITAL LETTER A
+0042              	     34   	LATIN CAPITAL LETTER B
+0045              	     44   	LATIN CAPITAL LETTER E
+0047              	      3   	LATIN CAPITAL LETTER G
+0049              	      9   	LATIN CAPITAL LETTER I
+004B              	     18   	LATIN CAPITAL LETTER K
+004D              	      2   	LATIN CAPITAL LETTER M
+004E              	      3   	LATIN CAPITAL LETTER N
+004F              	      2   	LATIN CAPITAL LETTER O
+0054              	     21   	LATIN CAPITAL LETTER T
+0055              	      3   	LATIN CAPITAL LETTER U
+0061              	   3055   	LATIN SMALL LETTER A
+0065              	   1048   	LATIN SMALL LETTER E
+0067              	    470   	LATIN SMALL LETTER G
+0069              	   1244   	LATIN SMALL LETTER I
+006B              	    727   	LATIN SMALL LETTER K
+006C              	     34   	LATIN SMALL LETTER L
+006D              	    236   	LATIN SMALL LETTER M
+006E              	    716   	LATIN SMALL LETTER N
+006F              	    661   	LATIN SMALL LETTER O
+0070              	    183   	LATIN SMALL LETTER P
+0072              	    544   	LATIN SMALL LETTER R
+0073              	     34   	LATIN SMALL LETTER S
+0074              	   1613   	LATIN SMALL LETTER T
+0075              	    624   	LATIN SMALL LETTER U
+0076              	     62   	LATIN SMALL LETTER V
+00A0              	     13   	NO-BREAK SPACE
+2018              	      6   	LEFT SINGLE QUOTATION MARK
+2019              	      9   	RIGHT SINGLE QUOTATION MARK
+201C              	      1   	LEFT DOUBLE QUOTATION MARK
+201D              	      1   	RIGHT DOUBLE QUOTATION MARK

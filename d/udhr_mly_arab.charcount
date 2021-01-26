@@ -1,0 +1,48 @@
+002E              	     97   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003B              	      4   	SEMICOLON
+060C              	     85   	ARABIC COMMA
+0627              	   1208   	ARABIC LETTER ALEF
+0627, 0654        	     94   	ARABIC LETTER ALEF, ARABIC HAMZA ABOVE
+0628              	    319   	ARABIC LETTER BEH
+062A              	    398   	ARABIC LETTER TEH
+062C              	     65   	ARABIC LETTER JEEM
+062D              	     76   	ARABIC LETTER HAH
+062E              	      5   	ARABIC LETTER KHAH
+062F              	    457   	ARABIC LETTER DAL
+0630              	      5   	ARABIC LETTER THAL
+0631              	    560   	ARABIC LETTER REH
+0632              	      4   	ARABIC LETTER ZAIN
+0633              	    451   	ARABIC LETTER SEEN
+0634              	     17   	ARABIC LETTER SHEEN
+0635              	      9   	ARABIC LETTER SAD
+0637              	      5   	ARABIC LETTER TAH
+0638              	      2   	ARABIC LETTER ZAH
+0639              	     64   	ARABIC LETTER AIN
+0641              	     22   	ARABIC LETTER FEH
+0642              	    132   	ARABIC LETTER QAF
+0643              	    368   	ARABIC LETTER KAF
+0644              	    291   	ARABIC LETTER LAM
+0645              	    353   	ARABIC LETTER MEEM
+0646              	    739   	ARABIC LETTER NOON
+0647              	    249   	ARABIC LETTER HEH
+0648              	    500   	ARABIC LETTER WAW
+0648, 0654        	      7   	ARABIC LETTER WAW, ARABIC HAMZA ABOVE
+064A              	    594   	ARABIC LETTER YEH
+064A, 0654        	     19   	ARABIC LETTER YEH, ARABIC HAMZA ABOVE
+0662              	     66   	ARABIC-INDIC DIGIT TWO
+0686              	     38   	ARABIC LETTER TCHEH
+06A0              	    258   	ARABIC LETTER AIN WITH THREE DOTS ABOVE
+06A4              	    361   	ARABIC LETTER VEH
+06AC              	    107   	ARABIC LETTER KAF WITH DOT ABOVE
+06BD              	     79   	ARABIC LETTER NOON WITH THREE DOTS ABOVE
+06CF              	      1   	ARABIC LETTER WAW WITH DOT ABOVE

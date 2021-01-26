@@ -1,0 +1,71 @@
+0022              	      6   	QUOTATION MARK
+0027              	     34   	APOSTROPHE
+0028              	     30   	LEFT PARENTHESIS
+0029              	     30   	RIGHT PARENTHESIS
+002C              	    201   	COMMA
+002D              	      8   	HYPHEN-MINUS
+002E              	    101   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      1   	COLON
+003F              	      1   	QUESTION MARK
+0041              	    103   	LATIN CAPITAL LETTER A
+0043              	     43   	LATIN CAPITAL LETTER C
+0044              	     12   	LATIN CAPITAL LETTER D
+0045              	     11   	LATIN CAPITAL LETTER E
+0048              	     53   	LATIN CAPITAL LETTER H
+0049              	     41   	LATIN CAPITAL LETTER I
+004A              	      2   	LATIN CAPITAL LETTER J
+004B              	    111   	LATIN CAPITAL LETTER K
+004C              	     21   	LATIN CAPITAL LETTER L
+004D              	     25   	LATIN CAPITAL LETTER M
+004E              	     50   	LATIN CAPITAL LETTER N
+004E, 0303        	      2   	LATIN CAPITAL LETTER N, COMBINING TILDE
+004F              	     27   	LATIN CAPITAL LETTER O
+0050              	     13   	LATIN CAPITAL LETTER P
+0051              	     65   	LATIN CAPITAL LETTER Q
+0052              	      5   	LATIN CAPITAL LETTER R
+0053              	     33   	LATIN CAPITAL LETTER S
+0054              	      9   	LATIN CAPITAL LETTER T
+0055              	     35   	LATIN CAPITAL LETTER U
+0057              	      5   	LATIN CAPITAL LETTER W
+0059              	     36   	LATIN CAPITAL LETTER Y
+005B              	      1   	LEFT SQUARE BRACKET
+005D              	      1   	RIGHT SQUARE BRACKET
+0061              	   1944   	LATIN SMALL LETTER A
+0061, 0301        	      1   	LATIN SMALL LETTER A, COMBINING ACUTE ACCENT
+0062              	      8   	LATIN SMALL LETTER B
+0063              	    484   	LATIN SMALL LETTER C
+0064              	     99   	LATIN SMALL LETTER D
+0065              	    252   	LATIN SMALL LETTER E
+0066              	      3   	LATIN SMALL LETTER F
+0067              	     12   	LATIN SMALL LETTER G
+0068              	    526   	LATIN SMALL LETTER H
+0069              	    706   	LATIN SMALL LETTER I
+0069, 0301        	      4   	LATIN SMALL LETTER I, COMBINING ACUTE ACCENT
+006A              	      9   	LATIN SMALL LETTER J
+006B              	    332   	LATIN SMALL LETTER K
+006C              	    271   	LATIN SMALL LETTER L
+006D              	    261   	LATIN SMALL LETTER M
+006E              	    949   	LATIN SMALL LETTER N
+006E, 0303        	     18   	LATIN SMALL LETTER N, COMBINING TILDE
+006F              	    171   	LATIN SMALL LETTER O
+0070              	    461   	LATIN SMALL LETTER P
+0071              	    413   	LATIN SMALL LETTER Q
+0072              	    209   	LATIN SMALL LETTER R
+0073              	    624   	LATIN SMALL LETTER S
+0074              	    268   	LATIN SMALL LETTER T
+0075              	    393   	LATIN SMALL LETTER U
+0076              	     10   	LATIN SMALL LETTER V
+0077              	    149   	LATIN SMALL LETTER W
+0079              	    235   	LATIN SMALL LETTER Y
+007A              	      9   	LATIN SMALL LETTER Z
+007E              	      1   	TILDE

@@ -1,0 +1,67 @@
+0022              	      8   	QUOTATION MARK
+0027              	    423   	APOSTROPHE
+0028              	     30   	LEFT PARENTHESIS
+0029              	     30   	RIGHT PARENTHESIS
+002C              	     58   	COMMA
+002E              	    125   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     14   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+003A              	      2   	COLON
+003B              	     11   	SEMICOLON
+0041              	     29   	LATIN CAPITAL LETTER A
+0041, 0301        	      2   	LATIN CAPITAL LETTER A, COMBINING ACUTE ACCENT
+0042              	      6   	LATIN CAPITAL LETTER B
+0044              	      1   	LATIN CAPITAL LETTER D
+0045, 0301        	      1   	LATIN CAPITAL LETTER E, COMBINING ACUTE ACCENT
+0048              	      1   	LATIN CAPITAL LETTER H
+0049              	      7   	LATIN CAPITAL LETTER I
+0049, 0301        	      1   	LATIN CAPITAL LETTER I, COMBINING ACUTE ACCENT
+004A              	     19   	LATIN CAPITAL LETTER J
+004B              	     11   	LATIN CAPITAL LETTER K
+004C              	     20   	LATIN CAPITAL LETTER L
+004D              	      7   	LATIN CAPITAL LETTER M
+004E              	     15   	LATIN CAPITAL LETTER N
+004F              	      4   	LATIN CAPITAL LETTER O
+0050              	     29   	LATIN CAPITAL LETTER P
+0053              	      2   	LATIN CAPITAL LETTER S
+0054              	     14   	LATIN CAPITAL LETTER T
+0055              	     12   	LATIN CAPITAL LETTER U
+0057              	      2   	LATIN CAPITAL LETTER W
+0058              	      2   	LATIN CAPITAL LETTER X
+0059              	      6   	LATIN CAPITAL LETTER Y
+0061              	   1360   	LATIN SMALL LETTER A
+0061, 0301        	    261   	LATIN SMALL LETTER A, COMBINING ACUTE ACCENT
+0062              	    317   	LATIN SMALL LETTER B
+0063              	    150   	LATIN SMALL LETTER C
+0064              	     93   	LATIN SMALL LETTER D
+0065              	    200   	LATIN SMALL LETTER E
+0065, 0301        	     86   	LATIN SMALL LETTER E, COMBINING ACUTE ACCENT
+0068              	    235   	LATIN SMALL LETTER H
+0069              	    861   	LATIN SMALL LETTER I
+0069, 0301        	     83   	LATIN SMALL LETTER I, COMBINING ACUTE ACCENT
+006A              	    339   	LATIN SMALL LETTER J
+006B              	    520   	LATIN SMALL LETTER K
+006C              	    669   	LATIN SMALL LETTER L
+006D              	    153   	LATIN SMALL LETTER M
+006E              	    817   	LATIN SMALL LETTER N
+006F              	    161   	LATIN SMALL LETTER O
+006F, 0301        	     24   	LATIN SMALL LETTER O, COMBINING ACUTE ACCENT
+0070              	    113   	LATIN SMALL LETTER P
+0072              	     30   	LATIN SMALL LETTER R
+0073              	    166   	LATIN SMALL LETTER S
+0074              	    621   	LATIN SMALL LETTER T
+0075              	    203   	LATIN SMALL LETTER U
+0075, 0301        	     17   	LATIN SMALL LETTER U, COMBINING ACUTE ACCENT
+0077              	    199   	LATIN SMALL LETTER W
+0078              	    125   	LATIN SMALL LETTER X
+0079              	    156   	LATIN SMALL LETTER Y
+007B              	      1   	LEFT CURLY BRACKET
+2019              	      1   	RIGHT SINGLE QUOTATION MARK

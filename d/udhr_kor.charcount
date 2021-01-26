@@ -1,0 +1,64 @@
+002C              	     70   	COMMA
+002E              	     65   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+00B7              	      1   	MIDDLE DOT
+1100              	    441   	HANGUL CHOSEONG KIYEOK
+1101              	      1   	HANGUL CHOSEONG SSANGKIYEOK
+1102              	    152   	HANGUL CHOSEONG NIEUN
+1103              	    277   	HANGUL CHOSEONG TIKEUT
+1104              	     49   	HANGUL CHOSEONG SSANGTIKEUT
+1105              	    272   	HANGUL CHOSEONG RIEUL
+1106              	    126   	HANGUL CHOSEONG MIEUM
+1107              	    137   	HANGUL CHOSEONG PIEUP
+1108              	      1   	HANGUL CHOSEONG SSANGPIEUP
+1109              	    231   	HANGUL CHOSEONG SIOS
+110B              	    796   	HANGUL CHOSEONG IEUNG
+110C              	    419   	HANGUL CHOSEONG CIEUC
+110E              	     48   	HANGUL CHOSEONG CHIEUCH
+110F              	      2   	HANGUL CHOSEONG KHIEUKH
+1110              	     34   	HANGUL CHOSEONG THIEUTH
+1111              	     39   	HANGUL CHOSEONG PHIEUPH
+1112              	    319   	HANGUL CHOSEONG HIEUH
+1161              	    732   	HANGUL JUNGSEONG A
+1162              	     93   	HANGUL JUNGSEONG AE
+1163              	     19   	HANGUL JUNGSEONG YA
+1165              	    323   	HANGUL JUNGSEONG EO
+1166              	    157   	HANGUL JUNGSEONG E
+1167              	    162   	HANGUL JUNGSEONG YEO
+1168              	     19   	HANGUL JUNGSEONG YE
+1169              	    394   	HANGUL JUNGSEONG O
+116A              	     87   	HANGUL JUNGSEONG WA
+116C              	     57   	HANGUL JUNGSEONG OE
+116D              	     35   	HANGUL JUNGSEONG YO
+116E              	    162   	HANGUL JUNGSEONG U
+116F              	     76   	HANGUL JUNGSEONG WEO
+1171              	     22   	HANGUL JUNGSEONG WI
+1172              	     67   	HANGUL JUNGSEONG YU
+1173              	    400   	HANGUL JUNGSEONG EU
+1174              	    100   	HANGUL JUNGSEONG YI
+1175              	    439   	HANGUL JUNGSEONG I
+11A8              	    192   	HANGUL JONGSEONG KIYEOK
+11AB              	    644   	HANGUL JONGSEONG NIEUN
+11AD              	      1   	HANGUL JONGSEONG NIEUN-HIEUH
+11AE              	     24   	HANGUL JONGSEONG TIKEUT
+11AF              	    239   	HANGUL JONGSEONG RIEUL
+11B2              	      1   	HANGUL JONGSEONG RIEUL-PIEUP
+11B7              	     73   	HANGUL JONGSEONG MIEUM
+11B8              	     53   	HANGUL JONGSEONG PIEUP
+11B9              	     10   	HANGUL JONGSEONG PIEUP-SIOS
+11BA              	      6   	HANGUL JONGSEONG SIOS
+11BB              	     22   	HANGUL JONGSEONG SSANGSIOS
+11BC              	    246   	HANGUL JONGSEONG IEUNG
+11BE              	     12   	HANGUL JONGSEONG CHIEUCH
+11C0              	      1   	HANGUL JONGSEONG THIEUTH
+11C1              	      2   	HANGUL JONGSEONG PHIEUPH
+11C2              	      1   	HANGUL JONGSEONG HIEUH

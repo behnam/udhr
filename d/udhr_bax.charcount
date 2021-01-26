@@ -1,0 +1,75 @@
+0028              	      5   	LEFT PARENTHESIS
+0029              	      5   	RIGHT PARENTHESIS
+002C              	    111   	COMMA
+002D              	      3   	HYPHEN-MINUS
+002E              	     65   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003B              	      1   	SEMICOLON
+0041              	      9   	LATIN CAPITAL LETTER A
+0045              	      3   	LATIN CAPITAL LETTER E
+0045, 0301        	      3   	LATIN CAPITAL LETTER E, COMBINING ACUTE ACCENT
+0045, 0302        	      1   	LATIN CAPITAL LETTER E, COMBINING CIRCUMFLEX ACCENT
+0046              	      1   	LATIN CAPITAL LETTER F
+0047              	      5   	LATIN CAPITAL LETTER G
+0048              	      1   	LATIN CAPITAL LETTER H
+0049              	      1   	LATIN CAPITAL LETTER I
+004A              	      2   	LATIN CAPITAL LETTER J
+004B              	      4   	LATIN CAPITAL LETTER K
+004C              	      7   	LATIN CAPITAL LETTER L
+004D              	     38   	LATIN CAPITAL LETTER M
+004E              	     37   	LATIN CAPITAL LETTER N
+0050              	     10   	LATIN CAPITAL LETTER P
+0053              	      2   	LATIN CAPITAL LETTER S
+0054              	      6   	LATIN CAPITAL LETTER T
+0055              	      1   	LATIN CAPITAL LETTER U
+0055, 0301        	      4   	LATIN CAPITAL LETTER U, COMBINING ACUTE ACCENT
+0055, 0308        	      1   	LATIN CAPITAL LETTER U, COMBINING DIAERESIS
+0057              	      1   	LATIN CAPITAL LETTER W
+0059              	      4   	LATIN CAPITAL LETTER Y
+0061              	    458   	LATIN SMALL LETTER A
+0061, 0300        	      2   	LATIN SMALL LETTER A, COMBINING GRAVE ACCENT
+0061, 0301        	      1   	LATIN SMALL LETTER A, COMBINING ACUTE ACCENT
+0061, 0302        	     55   	LATIN SMALL LETTER A, COMBINING CIRCUMFLEX ACCENT
+0062              	    186   	LATIN SMALL LETTER B
+0064              	     61   	LATIN SMALL LETTER D
+0065              	    801   	LATIN SMALL LETTER E
+0065, 0300        	    113   	LATIN SMALL LETTER E, COMBINING GRAVE ACCENT
+0065, 0301        	    427   	LATIN SMALL LETTER E, COMBINING ACUTE ACCENT
+0065, 0302        	     60   	LATIN SMALL LETTER E, COMBINING CIRCUMFLEX ACCENT
+0066              	    126   	LATIN SMALL LETTER F
+0067              	    322   	LATIN SMALL LETTER G
+0068              	    286   	LATIN SMALL LETTER H
+0069              	    375   	LATIN SMALL LETTER I
+0069, 0302        	     53   	LATIN SMALL LETTER I, COMBINING CIRCUMFLEX ACCENT
+006A              	     46   	LATIN SMALL LETTER J
+006B              	    271   	LATIN SMALL LETTER K
+006C              	     78   	LATIN SMALL LETTER L
+006D              	    561   	LATIN SMALL LETTER M
+006E              	    878   	LATIN SMALL LETTER N
+006E, 0307        	     14   	LATIN SMALL LETTER N, COMBINING DOT ABOVE
+006F              	    113   	LATIN SMALL LETTER O
+006F, 0302        	     40   	LATIN SMALL LETTER O, COMBINING CIRCUMFLEX ACCENT
+0070              	    302   	LATIN SMALL LETTER P
+0072              	    107   	LATIN SMALL LETTER R
+0073              	    301   	LATIN SMALL LETTER S
+0074              	    591   	LATIN SMALL LETTER T
+0075              	    298   	LATIN SMALL LETTER U
+0075, 0300        	     52   	LATIN SMALL LETTER U, COMBINING GRAVE ACCENT
+0075, 0301        	    303   	LATIN SMALL LETTER U, COMBINING ACUTE ACCENT
+0075, 0302        	     49   	LATIN SMALL LETTER U, COMBINING CIRCUMFLEX ACCENT
+0075, 0308        	     46   	LATIN SMALL LETTER U, COMBINING DIAERESIS
+0076              	     10   	LATIN SMALL LETTER V
+0077              	     56   	LATIN SMALL LETTER W
+0079              	    241   	LATIN SMALL LETTER Y
+007A              	      3   	LATIN SMALL LETTER Z
+2018              	      1   	LEFT SINGLE QUOTATION MARK
+2019              	    258   	RIGHT SINGLE QUOTATION MARK

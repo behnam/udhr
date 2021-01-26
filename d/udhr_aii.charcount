@@ -1,0 +1,42 @@
+002E              	     72   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+0706              	      1   	SYRIAC COLON SKEWED LEFT
+0710              	    955   	SYRIAC LETTER ALAPH
+0712              	    147   	SYRIAC LETTER BETH
+0712, 0742        	     42   	SYRIAC LETTER BETH, SYRIAC RUKKAKHA
+0713              	    109   	SYRIAC LETTER GAMAL
+0713, 0330        	     11   	SYRIAC LETTER GAMAL, COMBINING TILDE BELOW
+0713, 0742        	      1   	SYRIAC LETTER GAMAL, SYRIAC RUKKAKHA
+0715              	    293   	SYRIAC LETTER DALATH
+0717              	    165   	SYRIAC LETTER HE
+0718              	    512   	SYRIAC LETTER WAW
+0719              	     31   	SYRIAC LETTER ZAIN
+071A              	    175   	SYRIAC LETTER HETH
+071B              	     43   	SYRIAC LETTER TETH
+071D              	    412   	SYRIAC LETTER YUDH
+071D, 073C        	      1   	SYRIAC LETTER YUDH, SYRIAC HBASA-ESASA DOTTED
+071F              	     87   	SYRIAC LETTER KAPH
+071F, 0330        	     13   	SYRIAC LETTER KAPH, COMBINING TILDE BELOW
+071F, 0742        	      5   	SYRIAC LETTER KAPH, SYRIAC RUKKAKHA
+0720              	    311   	SYRIAC LETTER LAMADH
+0721              	    218   	SYRIAC LETTER MIM
+0721, 0739        	      1   	SYRIAC LETTER MIM, SYRIAC DOTTED ZLAMA ANGULAR
+0722              	    279   	SYRIAC LETTER NUN
+0723              	     39   	SYRIAC LETTER SEMKATH
+0725              	     64   	SYRIAC LETTER E
+0726              	    124   	SYRIAC LETTER PE
+0728              	      8   	SYRIAC LETTER SADHE
+0729              	    152   	SYRIAC LETTER QAPH
+072A              	    267   	SYRIAC LETTER RISH
+072B              	    160   	SYRIAC LETTER SHIN
+072C              	    389   	SYRIAC LETTER TAW
+072C, 0735        	      2   	SYRIAC LETTER TAW, SYRIAC ZQAPHA DOTTED

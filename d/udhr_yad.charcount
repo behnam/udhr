@@ -1,0 +1,64 @@
+0025              	      1   	PERCENT SIGN
+0027              	      2   	APOSTROPHE
+0028              	      1   	LEFT PARENTHESIS
+002C              	     95   	COMMA
+002D              	      1   	HYPHEN-MINUS
+002E              	    125   	FULL STOP
+0030              	      5   	DIGIT ZERO
+0031              	     19   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      5   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      5   	DIGIT EIGHT
+0039              	      5   	DIGIT NINE
+003A              	      9   	COLON
+003B              	      8   	SEMICOLON
+0041              	    102   	LATIN CAPITAL LETTER A
+0042              	      1   	LATIN CAPITAL LETTER B
+0043              	     46   	LATIN CAPITAL LETTER C
+0044              	     26   	LATIN CAPITAL LETTER D
+0045              	      6   	LATIN CAPITAL LETTER E
+0045, 0301        	      2   	LATIN CAPITAL LETTER E, COMBINING ACUTE ACCENT
+0048              	     44   	LATIN CAPITAL LETTER H
+0049              	     24   	LATIN CAPITAL LETTER I
+004A              	     39   	LATIN CAPITAL LETTER J
+004C              	      1   	LATIN CAPITAL LETTER L
+004D              	     13   	LATIN CAPITAL LETTER M
+004E              	     32   	LATIN CAPITAL LETTER N
+004F              	      3   	LATIN CAPITAL LETTER O
+0051              	      1   	LATIN CAPITAL LETTER Q
+0052              	     68   	LATIN CAPITAL LETTER R
+0053              	     38   	LATIN CAPITAL LETTER S
+0054              	     82   	LATIN CAPITAL LETTER T
+0055              	    103   	LATIN CAPITAL LETTER U
+0056              	     26   	LATIN CAPITAL LETTER V
+0059              	     28   	LATIN CAPITAL LETTER Y
+0061              	   1775   	LATIN SMALL LETTER A
+0061, 0301        	      1   	LATIN SMALL LETTER A, COMBINING ACUTE ACCENT
+0062              	     15   	LATIN SMALL LETTER B
+0063              	    222   	LATIN SMALL LETTER C
+0064              	    348   	LATIN SMALL LETTER D
+0065              	    229   	LATIN SMALL LETTER E
+0066              	      6   	LATIN SMALL LETTER F
+0068              	    171   	LATIN SMALL LETTER H
+0069              	    992   	LATIN SMALL LETTER I
+0069, 0301        	      2   	LATIN SMALL LETTER I, COMBINING ACUTE ACCENT
+006A              	    460   	LATIN SMALL LETTER J
+006C              	     14   	LATIN SMALL LETTER L
+006D              	    293   	LATIN SMALL LETTER M
+006E              	    386   	LATIN SMALL LETTER N
+006E, 0303        	     40   	LATIN SMALL LETTER N, COMBINING TILDE
+006F              	     57   	LATIN SMALL LETTER O
+0070              	     39   	LATIN SMALL LETTER P
+0071              	     25   	LATIN SMALL LETTER Q
+0072              	    744   	LATIN SMALL LETTER R
+0073              	    213   	LATIN SMALL LETTER S
+0074              	    548   	LATIN SMALL LETTER T
+0075              	    605   	LATIN SMALL LETTER U
+0076              	    584   	LATIN SMALL LETTER V
+0079              	    839   	LATIN SMALL LETTER Y
+00A3              	      1   	POUND SIGN
+00BD              	      1   	VULGAR FRACTION ONE HALF

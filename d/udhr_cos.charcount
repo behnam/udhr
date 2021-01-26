@@ -1,0 +1,59 @@
+002C              	    125   	COMMA
+002E              	     61   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     12   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003B              	      7   	SEMICOLON
+0041              	     41   	LATIN CAPITAL LETTER A
+0043              	      8   	LATIN CAPITAL LETTER C
+0044              	     12   	LATIN CAPITAL LETTER D
+0045              	      1   	LATIN CAPITAL LETTER E
+0048              	     16   	LATIN CAPITAL LETTER H
+0049              	     16   	LATIN CAPITAL LETTER I
+004A              	      1   	LATIN CAPITAL LETTER J
+004C              	      2   	LATIN CAPITAL LETTER L
+004D              	      3   	LATIN CAPITAL LETTER M
+004E              	      9   	LATIN CAPITAL LETTER N
+004F              	      8   	LATIN CAPITAL LETTER O
+0050              	      5   	LATIN CAPITAL LETTER P
+0052              	      3   	LATIN CAPITAL LETTER R
+0053              	     11   	LATIN CAPITAL LETTER S
+0054              	      2   	LATIN CAPITAL LETTER T
+0055              	     22   	LATIN CAPITAL LETTER U
+0056              	      1   	LATIN CAPITAL LETTER V
+005A              	      1   	LATIN CAPITAL LETTER Z
+0061              	    839   	LATIN SMALL LETTER A
+0061, 0300        	    222   	LATIN SMALL LETTER A, COMBINING GRAVE ACCENT
+0062              	     55   	LATIN SMALL LETTER B
+0063              	    370   	LATIN SMALL LETTER C
+0064              	    375   	LATIN SMALL LETTER D
+0065              	    291   	LATIN SMALL LETTER E
+0065, 0300        	    117   	LATIN SMALL LETTER E, COMBINING GRAVE ACCENT
+0066              	     64   	LATIN SMALL LETTER F
+0067              	    122   	LATIN SMALL LETTER G
+0068              	    145   	LATIN SMALL LETTER H
+0069              	   1463   	LATIN SMALL LETTER I
+0069, 0300        	     27   	LATIN SMALL LETTER I, COMBINING GRAVE ACCENT
+006A              	     35   	LATIN SMALL LETTER J
+006C              	    461   	LATIN SMALL LETTER L
+006D              	    175   	LATIN SMALL LETTER M
+006E              	    591   	LATIN SMALL LETTER N
+006F              	    298   	LATIN SMALL LETTER O
+006F, 0300        	     23   	LATIN SMALL LETTER O, COMBINING GRAVE ACCENT
+0070              	    244   	LATIN SMALL LETTER P
+0071              	     17   	LATIN SMALL LETTER Q
+0072              	    480   	LATIN SMALL LETTER R
+0073              	    439   	LATIN SMALL LETTER S
+0074              	    590   	LATIN SMALL LETTER T
+0075              	    780   	LATIN SMALL LETTER U
+0075, 0300        	     36   	LATIN SMALL LETTER U, COMBINING GRAVE ACCENT
+0076              	    104   	LATIN SMALL LETTER V
+007A              	    109   	LATIN SMALL LETTER Z
+2019              	    138   	RIGHT SINGLE QUOTATION MARK

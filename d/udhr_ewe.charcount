@@ -1,0 +1,78 @@
+002C              	     85   	COMMA
+002D              	     30   	HYPHEN-MINUS
+002E              	     96   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      1   	COLON
+0041              	     83   	LATIN CAPITAL LETTER A
+0041, 0303        	      2   	LATIN CAPITAL LETTER A, COMBINING TILDE
+0042              	      3   	LATIN CAPITAL LETTER B
+0044              	     43   	LATIN CAPITAL LETTER D
+0045              	     74   	LATIN CAPITAL LETTER E
+0046              	      2   	LATIN CAPITAL LETTER F
+0047              	     10   	LATIN CAPITAL LETTER G
+0048              	      3   	LATIN CAPITAL LETTER H
+0049              	     62   	LATIN CAPITAL LETTER I
+004B              	     48   	LATIN CAPITAL LETTER K
+004C              	     36   	LATIN CAPITAL LETTER L
+004D              	     18   	LATIN CAPITAL LETTER M
+004E              	     41   	LATIN CAPITAL LETTER N
+004F              	     93   	LATIN CAPITAL LETTER O
+0050              	     35   	LATIN CAPITAL LETTER P
+0053              	      2   	LATIN CAPITAL LETTER S
+0054              	      3   	LATIN CAPITAL LETTER T
+0055              	      3   	LATIN CAPITAL LETTER U
+0056              	      1   	LATIN CAPITAL LETTER V
+0057              	     19   	LATIN CAPITAL LETTER W
+0058              	      9   	LATIN CAPITAL LETTER X
+0059              	     34   	LATIN CAPITAL LETTER Y
+005A              	     31   	LATIN CAPITAL LETTER Z
+0061              	    985   	LATIN SMALL LETTER A
+0061, 0303        	     37   	LATIN SMALL LETTER A, COMBINING TILDE
+0062              	    267   	LATIN SMALL LETTER B
+0064              	    281   	LATIN SMALL LETTER D
+0065              	   1473   	LATIN SMALL LETTER E
+0065, 0301        	      3   	LATIN SMALL LETTER E, COMBINING ACUTE ACCENT
+0065, 0303        	     12   	LATIN SMALL LETTER E, COMBINING TILDE
+0066              	     43   	LATIN SMALL LETTER F
+0067              	    131   	LATIN SMALL LETTER G
+0068              	     75   	LATIN SMALL LETTER H
+0069              	    476   	LATIN SMALL LETTER I
+0069, 0301        	      2   	LATIN SMALL LETTER I, COMBINING ACUTE ACCENT
+0069, 0303        	      1   	LATIN SMALL LETTER I, COMBINING TILDE
+006B              	    358   	LATIN SMALL LETTER K
+006C              	    353   	LATIN SMALL LETTER L
+006D              	    453   	LATIN SMALL LETTER M
+006E              	    408   	LATIN SMALL LETTER N
+006F              	    526   	LATIN SMALL LETTER O
+006F, 0300        	     19   	LATIN SMALL LETTER O, COMBINING GRAVE ACCENT
+0070              	    203   	LATIN SMALL LETTER P
+0072              	     18   	LATIN SMALL LETTER R
+0073              	    325   	LATIN SMALL LETTER S
+0074              	    227   	LATIN SMALL LETTER T
+0075              	    369   	LATIN SMALL LETTER U
+0075, 0303        	      1   	LATIN SMALL LETTER U, COMBINING TILDE
+0076              	     90   	LATIN SMALL LETTER V
+0077              	    283   	LATIN SMALL LETTER W
+0078              	     79   	LATIN SMALL LETTER X
+0079              	    168   	LATIN SMALL LETTER Y
+007A              	    122   	LATIN SMALL LETTER Z
+014A              	      1   	LATIN CAPITAL LETTER ENG
+014B              	     83   	LATIN SMALL LETTER ENG
+0186              	      5   	LATIN CAPITAL LETTER OPEN O
+0189              	     96   	LATIN CAPITAL LETTER AFRICAN D
+0191              	     10   	LATIN CAPITAL LETTER F WITH HOOK
+0192              	    135   	LATIN SMALL LETTER F WITH HOOK
+0254              	    626   	LATIN SMALL LETTER OPEN O
+0254, 0303        	     18   	LATIN SMALL LETTER OPEN O, COMBINING TILDE
+0256              	    277   	LATIN SMALL LETTER D WITH TAIL
+025B              	     17   	LATIN SMALL LETTER OPEN E
+028B              	     12   	LATIN SMALL LETTER V WITH HOOK

@@ -1,0 +1,143 @@
+0028              	     32   	LEFT PARENTHESIS
+0029              	     32   	RIGHT PARENTHESIS
+002C              	    119   	COMMA
+002D              	      6   	HYPHEN-MINUS
+002E              	     75   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003B              	      1   	SEMICOLON
+A500              	     76   	VAI SYLLABLE EE
+A507              	     34   	VAI SYLLABLE BEE
+A509              	      8   	VAI SYLLABLE KPEE
+A50B              	      2   	VAI SYLLABLE GBEE
+A50C              	      6   	VAI SYLLABLE FEE
+A50E              	      7   	VAI SYLLABLE TEE
+A512              	     52   	VAI SYLLABLE LEE
+A514              	     24   	VAI SYLLABLE DEE
+A515              	     37   	VAI SYLLABLE NDEE
+A516              	      7   	VAI SYLLABLE SEE
+A51B              	      1   	VAI SYLLABLE JEE
+A51C              	      7   	VAI SYLLABLE NJEE
+A51D              	      3   	VAI SYLLABLE YEE
+A51E              	      4   	VAI SYLLABLE KEE
+A51F              	      4   	VAI SYLLABLE NGGEE
+A522              	      6   	VAI SYLLABLE NEE
+A524              	    212   	VAI SYLLABLE I
+A526              	      1   	VAI SYLLABLE HI
+A527              	    110   	VAI SYLLABLE HIN
+A52A              	      1   	VAI SYLLABLE PI
+A52B              	     12   	VAI SYLLABLE BHI
+A52C              	     11   	VAI SYLLABLE BI
+A530              	     62   	VAI SYLLABLE GBI
+A531              	     19   	VAI SYLLABLE FI
+A533              	     96   	VAI SYLLABLE TI
+A535              	      8   	VAI SYLLABLE DHI
+A537              	      8   	VAI SYLLABLE LI
+A53A              	      2   	VAI SYLLABLE NDI
+A53B              	     23   	VAI SYLLABLE SI
+A53D              	      2   	VAI SYLLABLE ZI
+A540              	     16   	VAI SYLLABLE JI
+A543              	     32   	VAI SYLLABLE KI
+A546              	      2   	VAI SYLLABLE MI
+A547              	      7   	VAI SYLLABLE NI
+A548              	      2   	VAI SYLLABLE NYI
+A549              	    361   	VAI SYLLABLE A
+A54A              	    159   	VAI SYLLABLE AN
+A54B              	      2   	VAI SYLLABLE NGAN
+A54C              	    259   	VAI SYLLABLE HA
+A54D              	      1   	VAI SYLLABLE HAN
+A54E              	    143   	VAI SYLLABLE WA
+A550              	      5   	VAI SYLLABLE PA
+A552              	     63   	VAI SYLLABLE BA
+A553              	      1   	VAI SYLLABLE MBA
+A554              	     29   	VAI SYLLABLE KPA
+A555              	     17   	VAI SYLLABLE KPAN
+A556              	      4   	VAI SYLLABLE MGBA
+A557              	      2   	VAI SYLLABLE GBA
+A558              	     21   	VAI SYLLABLE FA
+A559              	      1   	VAI SYLLABLE VA
+A55A              	     60   	VAI SYLLABLE TA
+A55C              	     16   	VAI SYLLABLE DHA
+A55E              	    144   	VAI SYLLABLE LA
+A561              	     16   	VAI SYLLABLE NDA
+A562              	    100   	VAI SYLLABLE SA
+A567              	     62   	VAI SYLLABLE JA
+A568              	      8   	VAI SYLLABLE NJA
+A569              	    117   	VAI SYLLABLE YA
+A56A              	     59   	VAI SYLLABLE KA
+A56C              	     10   	VAI SYLLABLE NGGA
+A56E              	    190   	VAI SYLLABLE MA
+A56F              	     79   	VAI SYLLABLE NA
+A570              	     67   	VAI SYLLABLE NYA
+A571              	     16   	VAI SYLLABLE OO
+A574              	     26   	VAI SYLLABLE WOO
+A576              	      1   	VAI SYLLABLE POO
+A577              	      1   	VAI SYLLABLE BHOO
+A578              	     45   	VAI SYLLABLE BOO
+A57A              	     12   	VAI SYLLABLE KPOO
+A57C              	      1   	VAI SYLLABLE GBOO
+A57E              	      5   	VAI SYLLABLE VOO
+A57F              	      8   	VAI SYLLABLE TOO
+A583              	     65   	VAI SYLLABLE LOO
+A587              	     16   	VAI SYLLABLE SOO
+A58F              	    119   	VAI SYLLABLE KOO
+A595              	     23   	VAI SYLLABLE U
+A59D              	      5   	VAI SYLLABLE BU
+A5A1              	      1   	VAI SYLLABLE GBU
+A5A2              	      1   	VAI SYLLABLE FU
+A5A4              	      2   	VAI SYLLABLE TU
+A5A6              	      9   	VAI SYLLABLE DHU
+A5A8              	      6   	VAI SYLLABLE LU
+A5AB              	      1   	VAI SYLLABLE NDU
+A5AC              	      9   	VAI SYLLABLE SU
+A5B4              	    106   	VAI SYLLABLE KU
+A5B7              	    218   	VAI SYLLABLE MU
+A5B8              	    265   	VAI SYLLABLE NU
+A5BA              	    132   	VAI SYLLABLE O
+A5BB              	     13   	VAI SYLLABLE ON
+A5C3              	     34   	VAI SYLLABLE BO
+A5C6              	      2   	VAI SYLLABLE MGBO
+A5C9              	      6   	VAI SYLLABLE FO
+A5CB              	     61   	VAI SYLLABLE TO
+A5CF              	    145   	VAI SYLLABLE LO
+A5D2              	     34   	VAI SYLLABLE NDO
+A5D3              	     59   	VAI SYLLABLE SO
+A5D4              	      7   	VAI SYLLABLE SHO
+A5D8              	      5   	VAI SYLLABLE JO
+A5DA              	      1   	VAI SYLLABLE YO
+A5DB              	     22   	VAI SYLLABLE KO
+A5DD              	      7   	VAI SYLLABLE GO
+A5DE              	    166   	VAI SYLLABLE MO
+A5E0              	      8   	VAI SYLLABLE NYO
+A5E1              	    107   	VAI SYLLABLE E
+A5E2              	     53   	VAI SYLLABLE EN
+A5E3              	     12   	VAI SYLLABLE NGEN
+A5E6              	      8   	VAI SYLLABLE WE
+A5E8              	      8   	VAI SYLLABLE PE
+A5EA              	     92   	VAI SYLLABLE BE
+A5EB              	      4   	VAI SYLLABLE MBE
+A5EC              	     19   	VAI SYLLABLE KPE
+A5EF              	      1   	VAI SYLLABLE GBE
+A5F1              	     48   	VAI SYLLABLE FE
+A5F3              	     18   	VAI SYLLABLE TE
+A5F7              	     54   	VAI SYLLABLE LE
+A5F8              	      1   	VAI SYLLABLE RE
+A5FA              	      1   	VAI SYLLABLE NDE
+A5FB              	      6   	VAI SYLLABLE SE
+A5FD              	      1   	VAI SYLLABLE ZE
+A600              	      7   	VAI SYLLABLE JE
+A602              	     54   	VAI SYLLABLE YE
+A603              	    103   	VAI SYLLABLE KE
+A606              	      2   	VAI SYLLABLE GE
+A608              	     32   	VAI SYLLABLE ME
+A609              	      9   	VAI SYLLABLE NE
+A60A              	      3   	VAI SYLLABLE NYE
+A60B              	    201   	VAI SYLLABLE NG

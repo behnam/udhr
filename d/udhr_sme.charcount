@@ -1,0 +1,64 @@
+002C              	    103   	COMMA
+002D              	      6   	HYPHEN-MINUS
+002E              	     88   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      1   	COLON
+0041              	     38   	LATIN CAPITAL LETTER A
+0041, 0301        	      4   	LATIN CAPITAL LETTER A, COMBINING ACUTE ACCENT
+0042              	      6   	LATIN CAPITAL LETTER B
+0043, 030C        	      1   	LATIN CAPITAL LETTER C, COMBINING CARON
+0044              	      9   	LATIN CAPITAL LETTER D
+0045              	      2   	LATIN CAPITAL LETTER E
+0047              	      4   	LATIN CAPITAL LETTER G
+0048              	      1   	LATIN CAPITAL LETTER H
+0049              	     15   	LATIN CAPITAL LETTER I
+004A              	     28   	LATIN CAPITAL LETTER J
+004B              	      2   	LATIN CAPITAL LETTER K
+004C              	      4   	LATIN CAPITAL LETTER L
+004D              	      5   	LATIN CAPITAL LETTER M
+004E              	      7   	LATIN CAPITAL LETTER N
+004F              	     15   	LATIN CAPITAL LETTER O
+0050              	      2   	LATIN CAPITAL LETTER P
+0053              	      5   	LATIN CAPITAL LETTER S
+0053, 030C        	      3   	LATIN CAPITAL LETTER S, COMBINING CARON
+0054              	      2   	LATIN CAPITAL LETTER T
+0055              	      4   	LATIN CAPITAL LETTER U
+0056              	      4   	LATIN CAPITAL LETTER V
+0061              	   1462   	LATIN SMALL LETTER A
+0061, 0301        	    389   	LATIN SMALL LETTER A, COMBINING ACUTE ACCENT
+0062              	    139   	LATIN SMALL LETTER B
+0063              	     14   	LATIN SMALL LETTER C
+0063, 030C        	     80   	LATIN SMALL LETTER C, COMBINING CARON
+0064              	    586   	LATIN SMALL LETTER D
+0065              	    536   	LATIN SMALL LETTER E
+0066              	     50   	LATIN SMALL LETTER F
+0067              	    386   	LATIN SMALL LETTER G
+0068              	    373   	LATIN SMALL LETTER H
+0069              	    786   	LATIN SMALL LETTER I
+006A              	    276   	LATIN SMALL LETTER J
+006B              	    281   	LATIN SMALL LETTER K
+006C              	    550   	LATIN SMALL LETTER L
+006D              	    278   	LATIN SMALL LETTER M
+006E              	    308   	LATIN SMALL LETTER N
+006F              	    758   	LATIN SMALL LETTER O
+0070              	     50   	LATIN SMALL LETTER P
+0072              	    288   	LATIN SMALL LETTER R
+0073              	    503   	LATIN SMALL LETTER S
+0073, 030C        	    221   	LATIN SMALL LETTER S, COMBINING CARON
+0074              	    660   	LATIN SMALL LETTER T
+0075              	    648   	LATIN SMALL LETTER U
+0076              	    515   	LATIN SMALL LETTER V
+007A, 030C        	     41   	LATIN SMALL LETTER Z, COMBINING CARON
+0110              	      1   	LATIN CAPITAL LETTER D WITH STROKE
+0111              	     99   	LATIN SMALL LETTER D WITH STROKE
+014B              	     12   	LATIN SMALL LETTER ENG
+0167              	      1   	LATIN SMALL LETTER T WITH STROKE

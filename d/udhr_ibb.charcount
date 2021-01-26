@@ -1,0 +1,50 @@
+0022              	      2   	QUOTATION MARK
+002C              	    136   	COMMA
+002D              	     23   	HYPHEN-MINUS
+002E              	     75   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     14   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+003A              	      2   	COLON
+003B              	     19   	SEMICOLON
+0041              	     14   	LATIN CAPITAL LETTER A
+0042              	      1   	LATIN CAPITAL LETTER B
+0044              	      1   	LATIN CAPITAL LETTER D
+0045              	     63   	LATIN CAPITAL LETTER E
+0049              	     68   	LATIN CAPITAL LETTER I
+004B              	     44   	LATIN CAPITAL LETTER K
+004D              	     76   	LATIN CAPITAL LETTER M
+004E              	      7   	LATIN CAPITAL LETTER N
+004F              	     54   	LATIN CAPITAL LETTER O
+0053              	      1   	LATIN CAPITAL LETTER S
+0054              	      2   	LATIN CAPITAL LETTER T
+0055              	     17   	LATIN CAPITAL LETTER U
+0057              	      3   	LATIN CAPITAL LETTER W
+0061              	    608   	LATIN SMALL LETTER A
+0062              	    276   	LATIN SMALL LETTER B
+0064              	    702   	LATIN SMALL LETTER D
+0065              	   2023   	LATIN SMALL LETTER E
+0066              	    107   	LATIN SMALL LETTER F
+0067              	      5   	LATIN SMALL LETTER G
+0068              	     78   	LATIN SMALL LETTER H
+0069              	    888   	LATIN SMALL LETTER I
+006B              	    721   	LATIN SMALL LETTER K
+006C              	      2   	LATIN SMALL LETTER L
+006D              	    843   	LATIN SMALL LETTER M
+006E              	   1310   	LATIN SMALL LETTER N
+006E, 0303        	      3   	LATIN SMALL LETTER N, COMBINING TILDE
+006F              	   1045   	LATIN SMALL LETTER O
+0070              	    232   	LATIN SMALL LETTER P
+0072              	    146   	LATIN SMALL LETTER R
+0073              	    190   	LATIN SMALL LETTER S
+0074              	    362   	LATIN SMALL LETTER T
+0075              	    730   	LATIN SMALL LETTER U
+0077              	    204   	LATIN SMALL LETTER W
+0079              	    287   	LATIN SMALL LETTER Y

@@ -1,0 +1,58 @@
+002C              	    152   	COMMA
+002E              	     65   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     15   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+003B              	      5   	SEMICOLON
+0041              	     32   	LATIN CAPITAL LETTER A
+0041, 0304        	      1   	LATIN CAPITAL LETTER A, COMBINING MACRON
+0044              	      2   	LATIN CAPITAL LETTER D
+0045              	     14   	LATIN CAPITAL LETTER E
+0048              	     22   	LATIN CAPITAL LETTER H
+0049              	     11   	LATIN CAPITAL LETTER I
+0049, 0304        	      1   	LATIN CAPITAL LETTER I, COMBINING MACRON
+004B              	      7   	LATIN CAPITAL LETTER K
+004C              	      8   	LATIN CAPITAL LETTER L
+004D              	      3   	LATIN CAPITAL LETTER M
+004E              	     14   	LATIN CAPITAL LETTER N
+004F              	     16   	LATIN CAPITAL LETTER O
+004F, 0304        	      5   	LATIN CAPITAL LETTER O, COMBINING MACRON
+0050              	     39   	LATIN CAPITAL LETTER P
+0052              	      1   	LATIN CAPITAL LETTER R
+0055              	     38   	LATIN CAPITAL LETTER U
+0056              	      1   	LATIN CAPITAL LETTER V
+0061              	   1826   	LATIN SMALL LETTER A
+0061, 0304        	    286   	LATIN SMALL LETTER A, COMBINING MACRON
+0063              	      1   	LATIN SMALL LETTER C
+0065              	    532   	LATIN SMALL LETTER E
+0065, 0304        	     32   	LATIN SMALL LETTER E, COMBINING MACRON
+0066              	      1   	LATIN SMALL LETTER F
+0067              	      1   	LATIN SMALL LETTER G
+0068              	    337   	LATIN SMALL LETTER H
+0069              	    662   	LATIN SMALL LETTER I
+0069, 0304        	     22   	LATIN SMALL LETTER I, COMBINING MACRON
+006B              	    872   	LATIN SMALL LETTER K
+006C              	    370   	LATIN SMALL LETTER L
+006D              	    257   	LATIN SMALL LETTER M
+006E              	    649   	LATIN SMALL LETTER N
+006F              	    783   	LATIN SMALL LETTER O
+006F, 0304        	     42   	LATIN SMALL LETTER O, COMBINING MACRON
+0070              	    230   	LATIN SMALL LETTER P
+0072              	      2   	LATIN SMALL LETTER R
+0073              	      2   	LATIN SMALL LETTER S
+0074              	      6   	LATIN SMALL LETTER T
+0075              	    418   	LATIN SMALL LETTER U
+0075, 0304        	     78   	LATIN SMALL LETTER U, COMBINING MACRON
+0076              	     22   	LATIN SMALL LETTER V
+0077              	     74   	LATIN SMALL LETTER W
+2018              	    263   	LEFT SINGLE QUOTATION MARK
+2019              	    278   	RIGHT SINGLE QUOTATION MARK
+201C              	      1   	LEFT DOUBLE QUOTATION MARK
+201D              	      1   	RIGHT DOUBLE QUOTATION MARK

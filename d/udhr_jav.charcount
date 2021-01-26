@@ -1,0 +1,61 @@
+0028              	     28   	LEFT PARENTHESIS
+0029              	     28   	RIGHT PARENTHESIS
+002C              	    126   	COMMA
+002D              	     98   	HYPHEN-MINUS
+002E              	     76   	FULL STOP
+002F              	     15   	SOLIDUS
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	     31   	COLON
+003B              	      1   	SEMICOLON
+003D              	      2   	EQUALS SIGN
+0041              	     73   	LATIN CAPITAL LETTER A
+0042              	     87   	LATIN CAPITAL LETTER B
+0044              	      1   	LATIN CAPITAL LETTER D
+0045              	      3   	LATIN CAPITAL LETTER E
+0047              	     12   	LATIN CAPITAL LETTER G
+0048              	     10   	LATIN CAPITAL LETTER H
+0049              	     15   	LATIN CAPITAL LETTER I
+004A              	      1   	LATIN CAPITAL LETTER J
+004B              	     13   	LATIN CAPITAL LETTER K
+004C              	      1   	LATIN CAPITAL LETTER L
+004D              	     29   	LATIN CAPITAL LETTER M
+004E              	     36   	LATIN CAPITAL LETTER N
+004F              	      9   	LATIN CAPITAL LETTER O
+0050              	     27   	LATIN CAPITAL LETTER P
+0052              	      2   	LATIN CAPITAL LETTER R
+0053              	     43   	LATIN CAPITAL LETTER S
+0054              	      4   	LATIN CAPITAL LETTER T
+0055              	     15   	LATIN CAPITAL LETTER U
+0059              	      2   	LATIN CAPITAL LETTER Y
+0061              	   2588   	LATIN SMALL LETTER A
+0062              	    359   	LATIN SMALL LETTER B
+0063              	     27   	LATIN SMALL LETTER C
+0064              	    338   	LATIN SMALL LETTER D
+0065              	    672   	LATIN SMALL LETTER E
+0066              	      3   	LATIN SMALL LETTER F
+0067              	    788   	LATIN SMALL LETTER G
+0068              	    320   	LATIN SMALL LETTER H
+0069              	    747   	LATIN SMALL LETTER I
+006A              	     97   	LATIN SMALL LETTER J
+006B              	    684   	LATIN SMALL LETTER K
+006C              	    348   	LATIN SMALL LETTER L
+006D              	    335   	LATIN SMALL LETTER M
+006E              	   1586   	LATIN SMALL LETTER N
+006F              	    290   	LATIN SMALL LETTER O
+0070              	    268   	LATIN SMALL LETTER P
+0072              	    502   	LATIN SMALL LETTER R
+0073              	    435   	LATIN SMALL LETTER S
+0074              	    430   	LATIN SMALL LETTER T
+0075              	    568   	LATIN SMALL LETTER U
+0076              	      3   	LATIN SMALL LETTER V
+0077              	    274   	LATIN SMALL LETTER W
+0079              	    139   	LATIN SMALL LETTER Y

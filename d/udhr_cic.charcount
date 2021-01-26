@@ -1,0 +1,61 @@
+0027              	    240   	APOSTROPHE
+002C              	      6   	COMMA
+002D              	      7   	HYPHEN-MINUS
+002E              	     76   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      1   	COLON
+003B              	      3   	SEMICOLON
+0041              	     35   	LATIN CAPITAL LETTER A
+0041, 0301        	      1   	LATIN CAPITAL LETTER A, COMBINING ACUTE ACCENT
+0041, 0331        	      1   	LATIN CAPITAL LETTER A, COMBINING MACRON BELOW
+0043              	      5   	LATIN CAPITAL LETTER C
+0047              	      1   	LATIN CAPITAL LETTER G
+0048              	     29   	LATIN CAPITAL LETTER H
+0049              	      6   	LATIN CAPITAL LETTER I
+0049, 0331        	      1   	LATIN CAPITAL LETTER I, COMBINING MACRON BELOW
+004B              	     47   	LATIN CAPITAL LETTER K
+004D              	      1   	LATIN CAPITAL LETTER M
+004E              	     15   	LATIN CAPITAL LETTER N
+0054              	      1   	LATIN CAPITAL LETTER T
+0055              	      1   	LATIN CAPITAL LETTER U
+0059              	      3   	LATIN CAPITAL LETTER Y
+0061              	   1094   	LATIN SMALL LETTER A
+0061, 0301        	     33   	LATIN SMALL LETTER A, COMBINING ACUTE ACCENT
+0061, 0331        	     44   	LATIN SMALL LETTER A, COMBINING MACRON BELOW
+0061, 0331, 0301  	      4   	LATIN SMALL LETTER A, COMBINING MACRON BELOW, COMBINING ACUTE ACCENT
+0062              	     85   	LATIN SMALL LETTER B
+0063              	     94   	LATIN SMALL LETTER C
+0065              	      3   	LATIN SMALL LETTER E
+0066              	     36   	LATIN SMALL LETTER F
+0067              	      3   	LATIN SMALL LETTER G
+0068              	    409   	LATIN SMALL LETTER H
+0069              	    536   	LATIN SMALL LETTER I
+0069, 0301        	     36   	LATIN SMALL LETTER I, COMBINING ACUTE ACCENT
+0069, 0331        	     11   	LATIN SMALL LETTER I, COMBINING MACRON BELOW
+0069, 0331, 0301  	      2   	LATIN SMALL LETTER I, COMBINING MACRON BELOW, COMBINING ACUTE ACCENT
+006B              	    384   	LATIN SMALL LETTER K
+006C              	    137   	LATIN SMALL LETTER L
+006D              	    272   	LATIN SMALL LETTER M
+006E              	    406   	LATIN SMALL LETTER N
+006F              	    361   	LATIN SMALL LETTER O
+006F, 0301        	      2   	LATIN SMALL LETTER O, COMBINING ACUTE ACCENT
+006F, 0331        	     45   	LATIN SMALL LETTER O, COMBINING MACRON BELOW
+006F, 0331, 0301  	     26   	LATIN SMALL LETTER O, COMBINING MACRON BELOW, COMBINING ACUTE ACCENT
+0070              	     97   	LATIN SMALL LETTER P
+0072              	      2   	LATIN SMALL LETTER R
+0073              	    173   	LATIN SMALL LETTER S
+0074              	    370   	LATIN SMALL LETTER T
+0075              	      1   	LATIN SMALL LETTER U
+0076              	      1   	LATIN SMALL LETTER V
+0077              	     21   	LATIN SMALL LETTER W
+0079              	    210   	LATIN SMALL LETTER Y
+2014              	      2   	EM DASH

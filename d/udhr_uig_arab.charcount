@@ -1,0 +1,46 @@
+002D              	     16   	HYPHEN-MINUS
+002E              	     76   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003A              	      4   	COLON
+060C              	     80   	ARABIC COMMA
+061B              	      1   	ARABIC SEMICOLON
+0627              	    931   	ARABIC LETTER ALEF
+0628              	    226   	ARABIC LETTER BEH
+062A              	    372   	ARABIC LETTER TEH
+062C              	     61   	ARABIC LETTER JEEM
+062E              	     55   	ARABIC LETTER KHAH
+062F              	    402   	ARABIC LETTER DAL
+0631              	    433   	ARABIC LETTER REH
+0632              	    114   	ARABIC LETTER ZAIN
+0633              	    163   	ARABIC LETTER SEEN
+0634              	    314   	ARABIC LETTER SHEEN
+063A              	    108   	ARABIC LETTER GHAIN
+0642              	    543   	ARABIC LETTER QAF
+0643              	    310   	ARABIC LETTER KAF
+0644              	    654   	ARABIC LETTER LAM
+0645              	    404   	ARABIC LETTER MEEM
+0646              	    570   	ARABIC LETTER NOON
+0648              	    209   	ARABIC LETTER WAW
+0649              	   1524   	ARABIC LETTER ALEF MAKSURA
+064A              	    230   	ARABIC LETTER YEH
+064A, 0654        	    421   	ARABIC LETTER YEH, ARABIC HAMZA ABOVE
+067E              	     91   	ARABIC LETTER PEH
+0686              	     60   	ARABIC LETTER TCHEH
+06AD              	     93   	ARABIC LETTER NG
+06AF              	     80   	ARABIC LETTER GAF
+06BE              	    236   	ARABIC LETTER HEH DOACHASHMEE
+06C6              	     90   	ARABIC LETTER OE
+06C7              	    391   	ARABIC LETTER U
+06C8              	     74   	ARABIC LETTER YU
+06CB              	    143   	ARABIC LETTER VE
+06D0              	     85   	ARABIC LETTER E
+06D5              	    892   	ARABIC LETTER AE

@@ -1,0 +1,160 @@
+0029              	      1   	RIGHT PARENTHESIS
+002D              	      1   	HYPHEN-MINUS
+002E              	      2   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     16   	DIGIT ONE
+0032              	     14   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      4   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+0049              	      3   	LATIN CAPITAL LETTER I
+1202              	      1   	ETHIOPIC SYLLABLE HI
+1203              	     30   	ETHIOPIC SYLLABLE HAA
+1204              	      2   	ETHIOPIC SYLLABLE HEE
+1205              	     27   	ETHIOPIC SYLLABLE HE
+1208              	    119   	ETHIOPIC SYLLABLE LA
+1209              	     33   	ETHIOPIC SYLLABLE LU
+120A              	     14   	ETHIOPIC SYLLABLE LI
+120B              	     54   	ETHIOPIC SYLLABLE LAA
+120D              	    122   	ETHIOPIC SYLLABLE LE
+120E              	     15   	ETHIOPIC SYLLABLE LO
+1210              	      4   	ETHIOPIC SYLLABLE HHA
+1211              	      2   	ETHIOPIC SYLLABLE HHU
+1212              	      1   	ETHIOPIC SYLLABLE HHI
+1213              	     49   	ETHIOPIC SYLLABLE HHAA
+1215              	    170   	ETHIOPIC SYLLABLE HHE
+1216              	      1   	ETHIOPIC SYLLABLE HHO
+1218              	    132   	ETHIOPIC SYLLABLE MA
+121A              	      5   	ETHIOPIC SYLLABLE MI
+121B              	     47   	ETHIOPIC SYLLABLE MAA
+121C              	      2   	ETHIOPIC SYLLABLE MEE
+121D              	    206   	ETHIOPIC SYLLABLE ME
+121E              	      9   	ETHIOPIC SYLLABLE MO
+1229              	     20   	ETHIOPIC SYLLABLE RU
+122A              	     63   	ETHIOPIC SYLLABLE RI
+122B              	     48   	ETHIOPIC SYLLABLE RAA
+122D              	    100   	ETHIOPIC SYLLABLE RE
+122E              	      7   	ETHIOPIC SYLLABLE RO
+1230              	    166   	ETHIOPIC SYLLABLE SA
+1231              	      2   	ETHIOPIC SYLLABLE SU
+1232              	      3   	ETHIOPIC SYLLABLE SI
+1233              	     24   	ETHIOPIC SYLLABLE SAA
+1235              	     78   	ETHIOPIC SYLLABLE SE
+1238              	      1   	ETHIOPIC SYLLABLE SHA
+123B              	      4   	ETHIOPIC SYLLABLE SHAA
+123D              	      4   	ETHIOPIC SYLLABLE SHE
+1240              	     41   	ETHIOPIC SYLLABLE QA
+1241              	      3   	ETHIOPIC SYLLABLE QU
+1242              	      5   	ETHIOPIC SYLLABLE QI
+1245              	      4   	ETHIOPIC SYLLABLE QE
+1248              	      1   	ETHIOPIC SYLLABLE QWA
+124B              	      2   	ETHIOPIC SYLLABLE QWAA
+1250              	      4   	ETHIOPIC SYLLABLE QHA
+1251              	      2   	ETHIOPIC SYLLABLE QHU
+1253              	      6   	ETHIOPIC SYLLABLE QHAA
+1255              	     13   	ETHIOPIC SYLLABLE QHE
+1260              	     39   	ETHIOPIC SYLLABLE BA
+1261              	     21   	ETHIOPIC SYLLABLE BU
+1262              	      6   	ETHIOPIC SYLLABLE BI
+1263              	     58   	ETHIOPIC SYLLABLE BAA
+1264              	      8   	ETHIOPIC SYLLABLE BEE
+1265              	    308   	ETHIOPIC SYLLABLE BE
+1266              	      2   	ETHIOPIC SYLLABLE BO
+1270              	     67   	ETHIOPIC SYLLABLE TA
+1271              	     26   	ETHIOPIC SYLLABLE TU
+1272              	     34   	ETHIOPIC SYLLABLE TI
+1273              	     69   	ETHIOPIC SYLLABLE TAA
+1274              	      1   	ETHIOPIC SYLLABLE TEE
+1275              	    203   	ETHIOPIC SYLLABLE TE
+1276              	      4   	ETHIOPIC SYLLABLE TO
+1279              	      1   	ETHIOPIC SYLLABLE CU
+127B              	      1   	ETHIOPIC SYLLABLE CAA
+1290              	    128   	ETHIOPIC SYLLABLE NA
+1291              	     14   	ETHIOPIC SYLLABLE NU
+1292              	      2   	ETHIOPIC SYLLABLE NI
+1293              	     58   	ETHIOPIC SYLLABLE NAA
+1295              	    408   	ETHIOPIC SYLLABLE NE
+1296              	      9   	ETHIOPIC SYLLABLE NO
+129B              	      3   	ETHIOPIC SYLLABLE NYAA
+129D              	      5   	ETHIOPIC SYLLABLE NYE
+12A1              	     12   	ETHIOPIC SYLLABLE GLOTTAL U
+12A2              	     12   	ETHIOPIC SYLLABLE GLOTTAL I
+12A3              	      1   	ETHIOPIC SYLLABLE GLOTTAL AA
+12A4              	      3   	ETHIOPIC SYLLABLE GLOTTAL EE
+12A5              	     78   	ETHIOPIC SYLLABLE GLOTTAL E
+12A6              	    188   	ETHIOPIC SYLLABLE GLOTTAL O
+12A8              	     26   	ETHIOPIC SYLLABLE KA
+12A9              	     13   	ETHIOPIC SYLLABLE KU
+12AA              	      5   	ETHIOPIC SYLLABLE KI
+12AB              	     53   	ETHIOPIC SYLLABLE KAA
+12AD              	     66   	ETHIOPIC SYLLABLE KE
+12AE              	      5   	ETHIOPIC SYLLABLE KO
+12B8              	     12   	ETHIOPIC SYLLABLE KXA
+12B9              	     14   	ETHIOPIC SYLLABLE KXU
+12BA              	      2   	ETHIOPIC SYLLABLE KXI
+12BB              	      9   	ETHIOPIC SYLLABLE KXAA
+12BD              	     18   	ETHIOPIC SYLLABLE KXE
+12BE              	     28   	ETHIOPIC SYLLABLE KXO
+12C3              	      8   	ETHIOPIC SYLLABLE KXWAA
+12C8              	     52   	ETHIOPIC SYLLABLE WA
+12C9              	      4   	ETHIOPIC SYLLABLE WU
+12CA              	     67   	ETHIOPIC SYLLABLE WI
+12CB              	     20   	ETHIOPIC SYLLABLE WAA
+12CC              	      1   	ETHIOPIC SYLLABLE WEE
+12CD              	     84   	ETHIOPIC SYLLABLE WE
+12CE              	     60   	ETHIOPIC SYLLABLE WO
+12D1              	      3   	ETHIOPIC SYLLABLE PHARYNGEAL U
+12D2              	      1   	ETHIOPIC SYLLABLE PHARYNGEAL I
+12D3              	     72   	ETHIOPIC SYLLABLE PHARYNGEAL AA
+12D5              	     57   	ETHIOPIC SYLLABLE PHARYNGEAL E
+12D8              	     33   	ETHIOPIC SYLLABLE ZA
+12DA              	     31   	ETHIOPIC SYLLABLE ZI
+12DB              	      7   	ETHIOPIC SYLLABLE ZAA
+12DC              	      8   	ETHIOPIC SYLLABLE ZEE
+12DD              	    106   	ETHIOPIC SYLLABLE ZE
+12DE              	      3   	ETHIOPIC SYLLABLE ZO
+12E8              	      9   	ETHIOPIC SYLLABLE YA
+12E9              	      6   	ETHIOPIC SYLLABLE YU
+12EA              	      4   	ETHIOPIC SYLLABLE YI
+12EB              	     10   	ETHIOPIC SYLLABLE YAA
+12ED              	    149   	ETHIOPIC SYLLABLE YE
+12EE              	      5   	ETHIOPIC SYLLABLE YO
+12F0              	     31   	ETHIOPIC SYLLABLE DA
+12F1              	      4   	ETHIOPIC SYLLABLE DU
+12F2              	     10   	ETHIOPIC SYLLABLE DI
+12F3              	     14   	ETHIOPIC SYLLABLE DAA
+12F4              	      1   	ETHIOPIC SYLLABLE DEE
+12F5              	    134   	ETHIOPIC SYLLABLE DE
+12F6              	      3   	ETHIOPIC SYLLABLE DO
+1300              	      1   	ETHIOPIC SYLLABLE JA
+1303              	      4   	ETHIOPIC SYLLABLE JAA
+1305              	      4   	ETHIOPIC SYLLABLE JE
+1308              	     70   	ETHIOPIC SYLLABLE GA
+1309              	     10   	ETHIOPIC SYLLABLE GU
+130A              	     18   	ETHIOPIC SYLLABLE GI
+130B              	     26   	ETHIOPIC SYLLABLE GAA
+130D              	     58   	ETHIOPIC SYLLABLE GE
+130E              	      3   	ETHIOPIC SYLLABLE GO
+1320              	     16   	ETHIOPIC SYLLABLE THA
+1321              	      3   	ETHIOPIC SYLLABLE THU
+1322              	      3   	ETHIOPIC SYLLABLE THI
+1323              	      5   	ETHIOPIC SYLLABLE THAA
+1325              	     22   	ETHIOPIC SYLLABLE THE
+132D              	      2   	ETHIOPIC SYLLABLE CHE
+1340              	     13   	ETHIOPIC SYLLABLE TZA
+1341              	      4   	ETHIOPIC SYLLABLE TZU
+1342              	      1   	ETHIOPIC SYLLABLE TZI
+1343              	     48   	ETHIOPIC SYLLABLE TZAA
+1345              	     51   	ETHIOPIC SYLLABLE TZE
+1346              	      2   	ETHIOPIC SYLLABLE TZO
+1348              	     18   	ETHIOPIC SYLLABLE FA
+134B              	      1   	ETHIOPIC SYLLABLE FAA
+134D              	     33   	ETHIOPIC SYLLABLE FE
+1356              	      3   	ETHIOPIC SYLLABLE PO
+1361              	    137   	ETHIOPIC WORDSPACE
+1363              	     63   	ETHIOPIC COMMA
+2019              	     13   	RIGHT SINGLE QUOTATION MARK

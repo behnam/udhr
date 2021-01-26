@@ -1,0 +1,75 @@
+0028              	      2   	LEFT PARENTHESIS
+0029              	      2   	RIGHT PARENTHESIS
+002C              	     95   	COMMA
+002E              	     63   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     16   	DIGIT ONE
+0032              	     14   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      4   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+003B              	      4   	SEMICOLON
+0041              	      1   	LATIN CAPITAL LETTER A
+0049              	      3   	LATIN CAPITAL LETTER I
+0410              	      8   	CYRILLIC CAPITAL LETTER A
+0411              	     14   	CYRILLIC CAPITAL LETTER BE
+0414              	      6   	CYRILLIC CAPITAL LETTER DE
+0415              	      1   	CYRILLIC CAPITAL LETTER IE
+0416              	      3   	CYRILLIC CAPITAL LETTER ZHE
+0418              	      8   	CYRILLIC CAPITAL LETTER I
+041A              	      1   	CYRILLIC CAPITAL LETTER KA
+041B              	      2   	CYRILLIC CAPITAL LETTER EL
+041C              	     10   	CYRILLIC CAPITAL LETTER EM
+041D              	      5   	CYRILLIC CAPITAL LETTER EN
+041E              	      5   	CYRILLIC CAPITAL LETTER O
+041F              	      1   	CYRILLIC CAPITAL LETTER PE
+0420              	      2   	CYRILLIC CAPITAL LETTER ER
+0421              	      2   	CYRILLIC CAPITAL LETTER ES
+0422              	     10   	CYRILLIC CAPITAL LETTER TE
+0423              	      9   	CYRILLIC CAPITAL LETTER U
+0425              	      2   	CYRILLIC CAPITAL LETTER HA
+0426              	      1   	CYRILLIC CAPITAL LETTER TSE
+0428              	      1   	CYRILLIC CAPITAL LETTER SHA
+042F              	      1   	CYRILLIC CAPITAL LETTER YA
+0430              	   1502   	CYRILLIC SMALL LETTER A
+0431              	    320   	CYRILLIC SMALL LETTER BE
+0432              	    142   	CYRILLIC SMALL LETTER VE
+0433              	    327   	CYRILLIC SMALL LETTER GHE
+0434              	    387   	CYRILLIC SMALL LETTER DE
+0435              	     92   	CYRILLIC SMALL LETTER IE
+0435, 0308        	     60   	CYRILLIC SMALL LETTER IE, COMBINING DIAERESIS
+0436              	     55   	CYRILLIC SMALL LETTER ZHE
+0437              	    117   	CYRILLIC SMALL LETTER ZE
+0438              	   1404   	CYRILLIC SMALL LETTER I
+0438, 0306        	    104   	CYRILLIC SMALL LETTER I, COMBINING BREVE
+043A              	    282   	CYRILLIC SMALL LETTER KA
+043B              	    646   	CYRILLIC SMALL LETTER EL
+043C              	    349   	CYRILLIC SMALL LETTER EM
+043D              	    633   	CYRILLIC SMALL LETTER EN
+043E              	    427   	CYRILLIC SMALL LETTER O
+043F              	     16   	CYRILLIC SMALL LETTER PE
+0440              	    584   	CYRILLIC SMALL LETTER ER
+0441              	    250   	CYRILLIC SMALL LETTER ES
+0442              	    361   	CYRILLIC SMALL LETTER TE
+0443              	    373   	CYRILLIC SMALL LETTER U
+0443, 0306        	    122   	CYRILLIC SMALL LETTER U, COMBINING BREVE
+0444              	     35   	CYRILLIC SMALL LETTER EF
+0445              	     42   	CYRILLIC SMALL LETTER HA
+0446              	     11   	CYRILLIC SMALL LETTER TSE
+0447              	     63   	CYRILLIC SMALL LETTER CHE
+0448              	    251   	CYRILLIC SMALL LETTER SHA
+044A              	     43   	CYRILLIC SMALL LETTER HARD SIGN
+044D              	    111   	CYRILLIC SMALL LETTER E
+044E              	      6   	CYRILLIC SMALL LETTER YU
+044F              	     56   	CYRILLIC SMALL LETTER YA
+0493              	     16   	CYRILLIC SMALL LETTER GHE WITH STROKE
+049A              	      2   	CYRILLIC CAPITAL LETTER KA WITH DESCENDER
+049B              	    316   	CYRILLIC SMALL LETTER KA WITH DESCENDER
+04B2              	     38   	CYRILLIC CAPITAL LETTER HA WITH DESCENDER
+04B3              	    177   	CYRILLIC SMALL LETTER HA WITH DESCENDER
+2010              	     58   	HYPHEN
+2013              	      1   	EN DASH

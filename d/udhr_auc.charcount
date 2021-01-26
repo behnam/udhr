@@ -1,0 +1,45 @@
+002C              	     37   	COMMA
+002E              	     65   	FULL STOP
+0030              	      3   	DIGIT ZERO
+0031              	     13   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      3   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      3   	DIGIT EIGHT
+0039              	      3   	DIGIT NINE
+003B              	      3   	SEMICOLON
+0041              	      3   	LATIN CAPITAL LETTER A
+0045              	      9   	LATIN CAPITAL LETTER E
+004B              	      1   	LATIN CAPITAL LETTER K
+004D              	      5   	LATIN CAPITAL LETTER M
+004E              	     32   	LATIN CAPITAL LETTER N
+004E, 0303        	      1   	LATIN CAPITAL LETTER N, COMBINING TILDE
+004F              	      4   	LATIN CAPITAL LETTER O
+0050              	      1   	LATIN CAPITAL LETTER P
+0054              	     41   	LATIN CAPITAL LETTER T
+0057              	      4   	LATIN CAPITAL LETTER W
+0059              	      1   	LATIN CAPITAL LETTER Y
+0061              	   1410   	LATIN SMALL LETTER A
+0062              	    168   	LATIN SMALL LETTER B
+0064              	    189   	LATIN SMALL LETTER D
+0065              	   1236   	LATIN SMALL LETTER E
+0065, 0301        	      1   	LATIN SMALL LETTER E, COMBINING ACUTE ACCENT
+0067              	    199   	LATIN SMALL LETTER G
+0069              	    656   	LATIN SMALL LETTER I
+0069, 0301        	      2   	LATIN SMALL LETTER I, COMBINING ACUTE ACCENT
+006B              	    501   	LATIN SMALL LETTER K
+006C              	      2   	LATIN SMALL LETTER L
+006D              	    889   	LATIN SMALL LETTER M
+006E              	    943   	LATIN SMALL LETTER N
+006E, 0303        	     76   	LATIN SMALL LETTER N, COMBINING TILDE
+006F              	    957   	LATIN SMALL LETTER O
+006F, 0301        	      1   	LATIN SMALL LETTER O, COMBINING ACUTE ACCENT
+0070              	    264   	LATIN SMALL LETTER P
+0071              	      1   	LATIN SMALL LETTER Q
+0072              	      4   	LATIN SMALL LETTER R
+0074              	    353   	LATIN SMALL LETTER T
+0077              	    304   	LATIN SMALL LETTER W
+0079              	    310   	LATIN SMALL LETTER Y

@@ -1,0 +1,60 @@
+0028              	      1   	LEFT PARENTHESIS
+0029              	      1   	RIGHT PARENTHESIS
+002C              	    139   	COMMA
+002E              	     66   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     17   	DIGIT ONE
+0032              	     14   	DIGIT TWO
+0033              	      5   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      4   	DIGIT SEVEN
+0038              	      5   	DIGIT EIGHT
+0039              	      6   	DIGIT NINE
+003A              	      1   	COLON
+003B              	      2   	SEMICOLON
+0041              	      1   	LATIN CAPITAL LETTER A
+05BE              	     53   	HEBREW PUNCTUATION MAQAF
+05D0              	    312   	HEBREW LETTER ALEF
+05D0, 05B7        	    411   	HEBREW LETTER ALEF, HEBREW POINT PATAH
+05D0, 05B8        	    289   	HEBREW LETTER ALEF, HEBREW POINT QAMATS
+05D1              	    128   	HEBREW LETTER BET
+05D1, 05BF        	      8   	HEBREW LETTER BET, HEBREW POINT RAFE
+05D2              	    222   	HEBREW LETTER GIMEL
+05D3              	    321   	HEBREW LETTER DALET
+05D4              	    128   	HEBREW LETTER HE
+05D5              	    405   	HEBREW LETTER VAV
+05D5, 05BC        	      2   	HEBREW LETTER VAV, HEBREW POINT DAGESH OR MAPIQ
+05D6              	    196   	HEBREW LETTER ZAYIN
+05D7              	     13   	HEBREW LETTER HET
+05D8              	    544   	HEBREW LETTER TET
+05D9              	    647   	HEBREW LETTER YOD
+05D9, 05B4        	      3   	HEBREW LETTER YOD, HEBREW POINT HIRIQ
+05DA              	     32   	HEBREW LETTER FINAL KAF
+05DB              	    146   	HEBREW LETTER KAF
+05DB, 05BC        	     14   	HEBREW LETTER KAF, HEBREW POINT DAGESH OR MAPIQ
+05DC              	    357   	HEBREW LETTER LAMED
+05DD              	     42   	HEBREW LETTER FINAL MEM
+05DE              	    169   	HEBREW LETTER MEM
+05DF              	    556   	HEBREW LETTER FINAL NUN
+05E0              	    391   	HEBREW LETTER NUN
+05E1              	    137   	HEBREW LETTER SAMEKH
+05E2              	    964   	HEBREW LETTER AYIN
+05E3              	     59   	HEBREW LETTER FINAL PE
+05E4, 05BC        	     56   	HEBREW LETTER PE, HEBREW POINT DAGESH OR MAPIQ
+05E4, 05BF        	    240   	HEBREW LETTER PE, HEBREW POINT RAFE
+05E5              	     19   	HEBREW LETTER FINAL TSADI
+05E6              	    126   	HEBREW LETTER TSADI
+05E7              	    240   	HEBREW LETTER QOF
+05E8              	    676   	HEBREW LETTER RESH
+05E9              	    148   	HEBREW LETTER SHIN
+05EA              	     22   	HEBREW LETTER TAV
+05EA, 05BC        	      4   	HEBREW LETTER TAV, HEBREW POINT DAGESH OR MAPIQ
+05F0              	    131   	HEBREW LIGATURE YIDDISH DOUBLE VAV
+05F1              	    108   	HEBREW LIGATURE YIDDISH VAV YOD
+05F2              	    103   	HEBREW LIGATURE YIDDISH DOUBLE YOD
+05F2, 05B7        	    124   	HEBREW LIGATURE YIDDISH DOUBLE YOD, HEBREW POINT PATAH
+05F3              	      1   	HEBREW PUNCTUATION GERESH
+202C              	      1   	POP DIRECTIONAL FORMATTING
+202E              	      1   	RIGHT-TO-LEFT OVERRIDE

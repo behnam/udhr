@@ -1,0 +1,75 @@
+002C              	    121   	COMMA
+002D              	      6   	HYPHEN-MINUS
+002E              	    100   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     15   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      5   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      5   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+003B              	      4   	SEMICOLON
+003F              	      1   	QUESTION MARK
+005B              	      3   	LEFT SQUARE BRACKET
+005D              	      3   	RIGHT SQUARE BRACKET
+0410              	      9   	CYRILLIC CAPITAL LETTER A
+0411              	     24   	CYRILLIC CAPITAL LETTER BE
+0413              	      3   	CYRILLIC CAPITAL LETTER GHE
+0414              	      6   	CYRILLIC CAPITAL LETTER DE
+0417              	      1   	CYRILLIC CAPITAL LETTER ZE
+041A              	      5   	CYRILLIC CAPITAL LETTER KA
+041C              	      7   	CYRILLIC CAPITAL LETTER EM
+041D              	      1   	CYRILLIC CAPITAL LETTER EN
+041E              	      6   	CYRILLIC CAPITAL LETTER O
+041F              	      1   	CYRILLIC CAPITAL LETTER PE
+0421              	      1   	CYRILLIC CAPITAL LETTER ES
+0422              	      2   	CYRILLIC CAPITAL LETTER TE
+0423              	      1   	CYRILLIC CAPITAL LETTER U
+0425              	      1   	CYRILLIC CAPITAL LETTER HA
+0428              	      1   	CYRILLIC CAPITAL LETTER SHA
+042D              	      1   	CYRILLIC CAPITAL LETTER E
+042F              	      1   	CYRILLIC CAPITAL LETTER YA
+0430              	    846   	CYRILLIC SMALL LETTER A
+0431              	    182   	CYRILLIC SMALL LETTER BE
+0432              	     31   	CYRILLIC SMALL LETTER VE
+0433              	    276   	CYRILLIC SMALL LETTER GHE
+0434              	    187   	CYRILLIC SMALL LETTER DE
+0435              	    710   	CYRILLIC SMALL LETTER IE
+0436              	      3   	CYRILLIC SMALL LETTER ZHE
+0437              	    115   	CYRILLIC SMALL LETTER ZE
+0438              	    352   	CYRILLIC SMALL LETTER I
+0438, 0306        	     50   	CYRILLIC SMALL LETTER I, COMBINING BREVE
+043A              	    513   	CYRILLIC SMALL LETTER KA
+043B              	    591   	CYRILLIC SMALL LETTER EL
+043C              	    234   	CYRILLIC SMALL LETTER EM
+043D              	    536   	CYRILLIC SMALL LETTER EN
+043E              	    172   	CYRILLIC SMALL LETTER O
+043F              	     56   	CYRILLIC SMALL LETTER PE
+0440              	    599   	CYRILLIC SMALL LETTER ER
+0441              	    228   	CYRILLIC SMALL LETTER ES
+0442              	    468   	CYRILLIC SMALL LETTER TE
+0443              	    245   	CYRILLIC SMALL LETTER U
+0444              	     13   	CYRILLIC SMALL LETTER EF
+0445              	    120   	CYRILLIC SMALL LETTER HA
+0446              	     22   	CYRILLIC SMALL LETTER TSE
+0447              	     62   	CYRILLIC SMALL LETTER CHE
+0448              	    225   	CYRILLIC SMALL LETTER SHA
+044A              	      9   	CYRILLIC SMALL LETTER HARD SIGN
+044B              	    422   	CYRILLIC SMALL LETTER YERU
+044C              	     63   	CYRILLIC SMALL LETTER SOFT SIGN
+044D              	     20   	CYRILLIC SMALL LETTER E
+044E              	      8   	CYRILLIC SMALL LETTER YU
+044F              	    125   	CYRILLIC SMALL LETTER YA
+0496              	      1   	CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER
+0497              	     40   	CYRILLIC SMALL LETTER ZHE WITH DESCENDER
+04A3              	     81   	CYRILLIC SMALL LETTER EN WITH DESCENDER
+04AE              	      1   	CYRILLIC CAPITAL LETTER STRAIGHT U
+04AF              	    122   	CYRILLIC SMALL LETTER STRAIGHT U
+04BA              	     26   	CYRILLIC CAPITAL LETTER SHHA
+04BB              	     84   	CYRILLIC SMALL LETTER SHHA
+04D9              	    653   	CYRILLIC SMALL LETTER SCHWA
+04E8              	      1   	CYRILLIC CAPITAL LETTER BARRED O
+04E9              	     47   	CYRILLIC SMALL LETTER BARRED O

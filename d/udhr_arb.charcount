@@ -1,0 +1,60 @@
+0028              	      1   	LEFT PARENTHESIS
+0029              	      1   	RIGHT PARENTHESIS
+002D              	      1   	HYPHEN-MINUS
+002E              	     70   	FULL STOP
+002F              	      1   	SOLIDUS
+0030              	      4   	DIGIT ZERO
+0031              	     16   	DIGIT ONE
+0032              	     14   	DIGIT TWO
+0033              	      5   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      4   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+060C              	     24   	ARABIC COMMA
+0621              	     26   	ARABIC LETTER HAMZA
+0627              	    959   	ARABIC LETTER ALEF
+0627, 064B        	     12   	ARABIC LETTER ALEF, ARABIC FATHATAN
+0627, 0651        	      1   	ARABIC LETTER ALEF, ARABIC SHADDA
+0627, 0653        	      7   	ARABIC LETTER ALEF, ARABIC MADDAH ABOVE
+0627, 0654        	    178   	ARABIC LETTER ALEF, ARABIC HAMZA ABOVE
+0627, 0655        	     74   	ARABIC LETTER ALEF, ARABIC HAMZA BELOW
+0628              	    134   	ARABIC LETTER BEH
+0629              	    231   	ARABIC LETTER TEH MARBUTA
+062A              	    275   	ARABIC LETTER TEH
+062A, 064F        	      1   	ARABIC LETTER TEH, ARABIC DAMMA
+062B              	     10   	ARABIC LETTER THEH
+062C              	     86   	ARABIC LETTER JEEM
+062D              	    162   	ARABIC LETTER HAH
+062E              	     53   	ARABIC LETTER KHAH
+062F              	    197   	ARABIC LETTER DAL
+0630              	     35   	ARABIC LETTER THAL
+0631              	    230   	ARABIC LETTER REH
+0631, 064B        	      2   	ARABIC LETTER REH, ARABIC FATHATAN
+0632              	     32   	ARABIC LETTER ZAIN
+0633              	    129   	ARABIC LETTER SEEN
+0634              	     53   	ARABIC LETTER SHEEN
+0635              	     46   	ARABIC LETTER SAD
+0636              	     49   	ARABIC LETTER DAD
+0636, 064B        	      1   	ARABIC LETTER DAD, ARABIC FATHATAN
+0637              	     28   	ARABIC LETTER TAH
+0638              	     11   	ARABIC LETTER ZAH
+0639              	    219   	ARABIC LETTER AIN
+063A              	     23   	ARABIC LETTER GHAIN
+0641              	    147   	ARABIC LETTER FEH
+0642              	    183   	ARABIC LETTER QAF
+0643              	    113   	ARABIC LETTER KAF
+0644              	    762   	ARABIC LETTER LAM
+0645              	    391   	ARABIC LETTER MEEM
+0645, 064B        	      1   	ARABIC LETTER MEEM, ARABIC FATHATAN
+0645, 0651        	      1   	ARABIC LETTER MEEM, ARABIC SHADDA
+0646              	    257   	ARABIC LETTER NOON
+0647              	    158   	ARABIC LETTER HEH
+0648              	    352   	ARABIC LETTER WAW
+0648, 0654        	      4   	ARABIC LETTER WAW, ARABIC HAMZA ABOVE
+0649              	     45   	ARABIC LETTER ALEF MAKSURA
+064A              	    427   	ARABIC LETTER YEH
+064A, 064F        	      1   	ARABIC LETTER YEH, ARABIC DAMMA
+064A, 0654        	     13   	ARABIC LETTER YEH, ARABIC HAMZA ABOVE

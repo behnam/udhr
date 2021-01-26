@@ -1,0 +1,74 @@
+002C              	     81   	COMMA
+002E              	     57   	FULL STOP
+0030              	      4   	DIGIT ZERO
+0031              	     15   	DIGIT ONE
+0032              	     13   	DIGIT TWO
+0033              	      4   	DIGIT THREE
+0034              	      4   	DIGIT FOUR
+0035              	      3   	DIGIT FIVE
+0036              	      3   	DIGIT SIX
+0037              	      3   	DIGIT SEVEN
+0038              	      4   	DIGIT EIGHT
+0039              	      4   	DIGIT NINE
+003A              	      2   	COLON
+003B              	      1   	SEMICOLON
+0041              	      6   	LATIN CAPITAL LETTER A
+0044              	      2   	LATIN CAPITAL LETTER D
+0045              	      2   	LATIN CAPITAL LETTER E
+0047              	      2   	LATIN CAPITAL LETTER G
+0048              	      3   	LATIN CAPITAL LETTER H
+0049              	      2   	LATIN CAPITAL LETTER I
+004D              	      3   	LATIN CAPITAL LETTER M
+0050              	      1   	LATIN CAPITAL LETTER P
+0054              	      3   	LATIN CAPITAL LETTER T
+0055              	      1   	LATIN CAPITAL LETTER U
+005A              	      3   	LATIN CAPITAL LETTER Z
+0061              	      6   	LATIN SMALL LETTER A
+0063              	      3   	LATIN SMALL LETTER C
+0064              	      3   	LATIN SMALL LETTER D
+0065              	      8   	LATIN SMALL LETTER E
+0065, 0301        	      1   	LATIN SMALL LETTER E, COMBINING ACUTE ACCENT
+0067              	      1   	LATIN SMALL LETTER G
+0069              	      4   	LATIN SMALL LETTER I
+006C              	      5   	LATIN SMALL LETTER L
+006D              	      2   	LATIN SMALL LETTER M
+006E              	      5   	LATIN SMALL LETTER N
+006F              	      5   	LATIN SMALL LETTER O
+0072              	      6   	LATIN SMALL LETTER R
+0073              	      3   	LATIN SMALL LETTER S
+0074              	      3   	LATIN SMALL LETTER T
+0075              	      2   	LATIN SMALL LETTER U
+0076              	      1   	LATIN SMALL LETTER V
+2013              	      1   	EN DASH
+2019              	      1   	RIGHT SINGLE QUOTATION MARK
+2D30              	    957   	TIFINAGH LETTER YA
+2D31              	     24   	TIFINAGH LETTER YAB
+2D33              	    202   	TIFINAGH LETTER YAG
+2D37              	    458   	TIFINAGH LETTER YAD
+2D39              	     31   	TIFINAGH LETTER YADD
+2D3B              	      1   	TIFINAGH LETTER YEY
+2D3C              	    191   	TIFINAGH LETTER YAF
+2D3D              	    131   	TIFINAGH LETTER YAK
+2D40              	      3   	TIFINAGH LETTER YAH
+2D43              	     14   	TIFINAGH LETTER YAHH
+2D45              	     14   	TIFINAGH LETTER YAKH
+2D47              	     22   	TIFINAGH LETTER YAQ
+2D49              	    578   	TIFINAGH LETTER YI
+2D4A              	      9   	TIFINAGH LETTER YAZH
+2D4D              	    260   	TIFINAGH LETTER YAL
+2D4E              	    227   	TIFINAGH LETTER YAM
+2D4F              	    770   	TIFINAGH LETTER YAN
+2D53              	    411   	TIFINAGH LETTER YU
+2D54              	    359   	TIFINAGH LETTER YAR
+2D55              	     11   	TIFINAGH LETTER YARR
+2D56              	    145   	TIFINAGH LETTER YAGH
+2D59              	    299   	TIFINAGH LETTER YAS
+2D5A              	      8   	TIFINAGH LETTER YASS
+2D5B              	     23   	TIFINAGH LETTER YASH
+2D5C              	    432   	TIFINAGH LETTER YAT
+2D5F              	     15   	TIFINAGH LETTER YATT
+2D61              	    119   	TIFINAGH LETTER YAW
+2D62              	    142   	TIFINAGH LETTER YAY
+2D63              	    132   	TIFINAGH LETTER YAZ
+2D65              	     22   	TIFINAGH LETTER YAZZ
+2D6F              	      8   	TIFINAGH MODIFIER LETTER LABIALIZATION MARK
